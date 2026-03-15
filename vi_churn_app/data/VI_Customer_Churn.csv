@@ -1,0 +1,1001 @@
+age,gender,state,location_type,plan_type,monthly_charges_inr,contract_tenure_months,data_limit_gb,avg_monthly_data_used_gb,avg_monthly_calls_mins,roaming_usage_flag,international_calls_flag,complaints_last_6months,customer_satisfaction_score,customer_service_calls,late_payment_count,payment_method,competitor_offer_received,number_portability_enquiry,churned
+56,Male,Andhra Pradesh,Urban,Prepaid,259,15,10,10.34,472,0,0,4,2,0,0,Auto-Debit,1,0,1
+69,Male,Tamil Nadu,Urban,Prepaid,382,27,10,4.58,865,0,0,1,4,1,3,Cash,0,0,0
+46,Male,Delhi,Rural,Prepaid,204,68,2,2.17,282,1,0,0,4,0,3,Net Banking,1,0,0
+32,Male,Rajasthan,Urban,Prepaid,203,64,20,17.78,294,1,0,4,2,3,0,UPI,1,1,1
+60,Male,Gujarat,Rural,Prepaid,537,30,5,4.6,122,0,0,0,4,2,0,Cash,1,0,0
+25,Male,Uttar Pradesh,Urban,Postpaid,910,36,5,4.12,691,0,0,0,4,0,2,UPI,0,0,0
+38,Male,Delhi,Semi-Urban,Postpaid,831,67,100,67.73,440,0,0,5,1,0,0,UPI,1,0,1
+56,Male,Delhi,Semi-Urban,Postpaid,857,49,10,7.57,167,1,0,0,1,0,0,UPI,0,1,1
+36,Male,Andhra Pradesh,Semi-Urban,Postpaid,492,55,2,0.67,237,1,0,3,5,1,0,Auto-Debit,1,0,0
+40,Female,Maharashtra,Urban,Prepaid,562,56,10,7.99,666,0,0,0,2,2,0,UPI,0,1,1
+28,Female,Madhya Pradesh,Urban,Prepaid,388,68,2,1.6,775,0,0,2,5,0,0,Auto-Debit,1,0,0
+28,Female,Bihar,Urban,Prepaid,185,44,1,1.01,602,0,0,1,4,0,1,Auto-Debit,0,0,0
+41,Female,Gujarat,Urban,Prepaid,468,31,5,3.52,336,0,0,5,3,0,1,UPI,0,0,0
+53,Male,Uttar Pradesh,Semi-Urban,Prepaid,460,58,100,36.17,295,0,0,1,2,0,0,UPI,0,0,0
+57,Male,Rajasthan,Rural,Prepaid,570,53,3,1.63,675,0,0,0,4,1,3,Auto-Debit,0,0,0
+41,Male,Rajasthan,Rural,Prepaid,154,23,10,8.25,347,1,0,1,3,1,1,Cash,0,1,0
+20,Female,Karnataka,Semi-Urban,Prepaid,211,28,3,1.47,142,0,0,0,4,2,0,UPI,0,0,0
+39,Female,Delhi,Semi-Urban,Postpaid,625,16,10,5.24,407,1,0,2,5,5,0,Auto-Debit,0,0,0
+19,Male,West Bengal,Semi-Urban,Postpaid,307,37,5,4.78,483,0,0,3,5,4,0,UPI,0,0,0
+41,Male,Maharashtra,Urban,Prepaid,116,21,10,7.67,220,0,0,1,3,1,0,Net Banking,0,0,0
+61,Male,Gujarat,Rural,Postpaid,411,17,3,2.12,469,0,0,2,5,2,0,UPI,0,0,0
+47,Male,Andhra Pradesh,Semi-Urban,Postpaid,972,37,10,5.55,216,0,0,0,5,5,0,Auto-Debit,1,0,0
+55,Female,Rajasthan,Semi-Urban,Prepaid,211,19,100,88.47,860,0,0,1,5,0,0,Auto-Debit,1,0,0
+19,Female,Uttar Pradesh,Urban,Prepaid,327,30,10,5.3,396,0,0,0,4,0,1,UPI,0,0,0
+38,Male,Karnataka,Urban,Prepaid,269,45,5,4.45,118,0,0,1,4,0,2,UPI,0,1,0
+50,Female,Telangana,Semi-Urban,Postpaid,1008,18,50,17.8,216,0,0,0,4,1,0,UPI,0,0,0
+29,Female,Bihar,Rural,Postpaid,774,62,1,0.99,848,0,0,2,3,2,1,Cash,1,0,0
+39,Male,Uttar Pradesh,Semi-Urban,Prepaid,524,36,10,7,161,0,0,0,5,1,3,Auto-Debit,1,0,0
+61,Male,Maharashtra,Urban,Prepaid,563,52,20,13.02,664,0,0,1,1,1,1,Net Banking,0,1,1
+42,Male,West Bengal,Rural,Prepaid,177,19,2,1.58,589,0,0,0,2,1,0,Cash,0,0,1
+66,Male,Karnataka,Urban,Prepaid,244,44,5,4,829,0,0,2,5,0,0,Cash,1,0,0
+44,Male,Telangana,Urban,Prepaid,505,7,3,1.22,405,0,0,0,1,0,2,Cash,0,1,1
+59,Male,Karnataka,Urban,Postpaid,372,44,5,4.52,720,1,1,1,5,0,0,Net Banking,0,1,0
+45,Male,Madhya Pradesh,Semi-Urban,Postpaid,978,68,10,5.21,721,0,0,0,4,0,0,UPI,0,1,0
+33,Male,Gujarat,Rural,Postpaid,1071,34,3,3.07,128,0,0,2,1,3,1,UPI,0,0,1
+32,Female,Karnataka,Urban,Postpaid,542,66,5,4.77,871,0,0,0,3,3,1,UPI,0,0,0
+64,Male,Kerala,Rural,Postpaid,1086,69,3,1.73,63,0,0,2,4,3,1,Net Banking,1,0,0
+68,Male,Madhya Pradesh,Urban,Prepaid,412,55,5,4.73,611,1,0,0,4,2,0,UPI,1,0,0
+61,Male,Madhya Pradesh,Rural,Postpaid,984,10,3,1.76,200,0,1,2,5,3,0,Auto-Debit,0,0,0
+69,Female,Maharashtra,Semi-Urban,Prepaid,421,42,20,7.62,395,0,0,0,5,2,4,Auto-Debit,1,0,0
+20,Male,Kerala,Rural,Postpaid,952,41,1,1.07,813,0,0,0,3,2,0,Net Banking,1,1,1
+54,Male,Tamil Nadu,Urban,Prepaid,346,69,20,16.44,88,0,0,1,2,2,0,Net Banking,0,0,0
+68,Female,Uttar Pradesh,Rural,Postpaid,740,10,5,3.32,210,0,0,0,5,1,0,UPI,1,0,0
+24,Female,Bihar,Semi-Urban,Prepaid,204,10,3,1.85,48,0,1,0,4,1,2,Auto-Debit,1,0,0
+38,Female,West Bengal,Urban,Prepaid,361,60,10,5.6,255,0,0,4,1,2,2,UPI,0,0,1
+26,Male,Punjab,Rural,Prepaid,394,51,5,5.43,502,1,0,5,5,0,3,Auto-Debit,1,0,1
+56,Male,Uttar Pradesh,Urban,Prepaid,168,21,5,2.04,124,0,0,2,5,1,0,UPI,1,0,0
+35,Female,Karnataka,Rural,Postpaid,1176,8,2,1.1,326,0,0,0,4,1,0,UPI,1,0,0
+21,Female,West Bengal,Urban,Postpaid,1153,65,5,3.44,622,0,0,0,3,0,0,Cash,1,0,0
+42,Female,Rajasthan,Semi-Urban,Prepaid,166,30,3,2.05,204,0,0,1,4,5,2,UPI,0,0,0
+31,Female,Tamil Nadu,Semi-Urban,Prepaid,592,49,1,0.68,251,0,0,0,4,0,0,UPI,1,0,0
+67,Male,Rajasthan,Urban,Prepaid,403,9,5,2.2,644,0,0,4,5,0,0,Net Banking,1,0,0
+26,Female,Kerala,Urban,Prepaid,150,17,2,0.83,83,0,0,0,5,0,1,UPI,0,0,0
+43,Male,Odisha,Urban,Prepaid,468,69,3,1.51,724,1,0,5,4,3,0,Auto-Debit,0,0,0
+19,Male,Rajasthan,Semi-Urban,Postpaid,1051,58,2,2.06,892,1,0,1,4,1,0,UPI,1,0,0
+37,Male,Andhra Pradesh,Urban,Prepaid,383,57,2,0.78,432,0,0,2,5,2,3,Cash,0,0,0
+45,Male,Gujarat,Semi-Urban,Prepaid,503,62,3,2.72,347,0,0,0,2,3,0,UPI,1,0,1
+64,Male,Uttar Pradesh,Urban,Prepaid,572,52,100,90.6,896,0,0,3,1,0,0,UPI,1,1,1
+24,Male,Punjab,Urban,Prepaid,432,61,1,0.95,378,0,0,0,5,0,0,Cash,0,1,0
+61,Female,Andhra Pradesh,Semi-Urban,Prepaid,107,40,10,10.09,472,0,0,1,2,0,0,Net Banking,0,0,0
+25,Male,Odisha,Urban,Postpaid,319,38,2,1.02,862,0,0,2,1,2,0,UPI,0,0,0
+64,Female,Maharashtra,Rural,Prepaid,529,43,50,23.98,609,0,0,0,2,2,1,Net Banking,0,0,1
+52,Male,Punjab,Rural,Prepaid,430,63,2,1.34,569,0,0,0,3,0,0,Cash,1,1,1
+31,Male,Rajasthan,Semi-Urban,Prepaid,396,19,50,25.6,815,0,0,1,3,0,3,Cash,0,0,0
+34,Male,Karnataka,Semi-Urban,Prepaid,533,50,10,8.87,311,1,1,0,3,0,0,Cash,0,0,0
+53,Male,Telangana,Rural,Prepaid,282,33,1,0.81,389,0,0,1,5,2,0,UPI,0,0,0
+67,Male,Tamil Nadu,Urban,Postpaid,1079,13,20,20,852,0,0,0,4,0,0,UPI,1,0,0
+57,Male,Bihar,Urban,Postpaid,506,62,5,1.83,660,0,0,0,4,0,1,Auto-Debit,0,0,0
+21,Male,Delhi,Urban,Prepaid,226,43,3,3.1,675,0,0,1,2,1,0,UPI,1,0,1
+19,Female,Punjab,Semi-Urban,Prepaid,118,49,10,5.35,670,0,0,1,4,2,2,Cash,0,0,0
+23,Male,Bihar,Urban,Prepaid,570,36,50,34.63,37,0,0,0,4,2,2,Net Banking,1,0,0
+59,Female,Bihar,Semi-Urban,Prepaid,509,10,5,3.25,592,0,0,3,4,1,3,UPI,0,0,0
+21,Male,Rajasthan,Rural,Postpaid,710,6,3,2.72,520,0,0,3,3,2,1,UPI,0,1,1
+46,Female,Tamil Nadu,Rural,Postpaid,822,57,10,6.36,370,0,0,1,3,1,0,UPI,1,0,0
+35,Female,West Bengal,Semi-Urban,Prepaid,163,1,10,10.55,501,1,0,0,5,5,2,UPI,0,0,0
+43,Female,Uttar Pradesh,Urban,Prepaid,280,71,20,20.44,822,0,0,0,4,0,3,Net Banking,0,0,0
+61,Male,Bihar,Rural,Prepaid,339,58,10,9.98,716,0,0,2,4,2,5,UPI,1,0,1
+51,Male,Madhya Pradesh,Semi-Urban,Postpaid,574,21,3,1.07,724,0,0,1,4,1,0,Auto-Debit,1,0,0
+27,Male,Odisha,Urban,Postpaid,747,56,50,49.17,733,0,0,0,3,0,1,UPI,0,0,0
+53,Female,Gujarat,Urban,Prepaid,482,20,2,1.85,278,0,1,1,4,2,0,Auto-Debit,0,0,0
+31,Female,Tamil Nadu,Rural,Prepaid,529,54,3,1.15,264,0,1,0,1,0,0,Cash,1,0,1
+48,Female,Karnataka,Semi-Urban,Postpaid,668,25,5,1.93,112,0,0,0,4,1,1,UPI,1,0,0
+65,Male,Kerala,Rural,Prepaid,181,28,5,1.9,122,0,0,1,5,1,4,Cash,0,0,0
+32,Female,Karnataka,Rural,Prepaid,568,5,1,0.5,423,0,0,1,4,0,1,Auto-Debit,0,0,0
+25,Female,Tamil Nadu,Semi-Urban,Prepaid,417,21,10,7.39,853,0,0,0,3,1,2,Auto-Debit,0,0,0
+31,Male,Karnataka,Semi-Urban,Postpaid,531,18,5,5.39,297,0,1,1,3,1,0,UPI,1,0,0
+40,Male,Bihar,Urban,Prepaid,537,47,5,3.25,446,0,0,4,4,2,0,Net Banking,0,0,0
+57,Female,Uttar Pradesh,Urban,Prepaid,414,70,20,14.65,661,0,0,1,5,2,1,UPI,1,0,0
+38,Female,Karnataka,Urban,Postpaid,351,57,5,5.37,612,0,0,1,4,0,0,Auto-Debit,0,0,0
+33,Female,Punjab,Semi-Urban,Prepaid,160,19,1,0.5,558,0,0,0,4,1,2,Auto-Debit,1,1,1
+62,Male,Madhya Pradesh,Semi-Urban,Prepaid,384,65,3,2.96,282,0,0,0,2,4,0,UPI,1,0,1
+35,Female,Karnataka,Rural,Prepaid,575,3,50,36.86,151,0,0,0,4,0,0,Auto-Debit,0,0,0
+64,Male,Madhya Pradesh,Urban,Prepaid,120,42,2,1.51,39,0,0,1,4,1,0,UPI,0,0,0
+41,Male,Telangana,Semi-Urban,Postpaid,658,21,5,2.87,828,0,0,2,5,2,0,UPI,0,1,0
+43,Male,Rajasthan,Semi-Urban,Prepaid,310,40,5,3.75,345,0,0,0,3,2,3,Auto-Debit,1,0,0
+42,Female,Maharashtra,Semi-Urban,Prepaid,224,67,5,1.79,867,0,0,0,4,0,0,Auto-Debit,0,1,0
+62,Female,Uttar Pradesh,Semi-Urban,Prepaid,511,25,1,0.91,302,0,0,0,3,1,0,Auto-Debit,1,0,0
+58,Male,Odisha,Urban,Postpaid,1169,55,5,2.64,335,0,0,0,4,1,2,Cash,1,0,0
+46,Male,Bihar,Semi-Urban,Postpaid,1177,52,5,5.05,834,0,1,4,5,6,0,UPI,1,0,1
+32,Female,Maharashtra,Urban,Prepaid,140,44,100,59.43,239,0,0,1,3,0,2,Cash,1,0,0
+62,Male,Bihar,Urban,Prepaid,196,56,3,1.24,759,0,0,0,3,6,0,Auto-Debit,0,0,0
+18,Female,Rajasthan,Semi-Urban,Postpaid,928,55,5,4.28,782,0,0,2,4,1,0,Net Banking,1,0,0
+42,Male,Bihar,Semi-Urban,Prepaid,129,70,5,2.16,493,0,0,2,4,0,4,Auto-Debit,0,0,0
+24,Male,Telangana,Rural,Postpaid,345,66,5,4.51,741,0,0,1,2,1,2,UPI,0,0,0
+26,Male,Uttar Pradesh,Semi-Urban,Postpaid,1120,19,10,10.74,757,0,0,0,3,2,0,Net Banking,0,0,0
+41,Male,Tamil Nadu,Semi-Urban,Postpaid,899,7,3,2.77,746,0,1,0,4,0,1,Net Banking,1,0,0
+18,Female,Tamil Nadu,Semi-Urban,Prepaid,345,63,3,0.95,445,1,0,0,5,0,3,Net Banking,1,0,0
+61,Male,Madhya Pradesh,Semi-Urban,Prepaid,220,42,10,7.8,245,0,1,2,2,3,0,Net Banking,0,1,1
+25,Male,Rajasthan,Urban,Postpaid,568,42,5,4.28,109,0,1,1,5,6,0,Auto-Debit,1,0,0
+41,Female,Madhya Pradesh,Urban,Prepaid,392,59,5,4.8,808,0,1,1,2,0,0,UPI,1,0,1
+28,Male,Telangana,Urban,Prepaid,496,20,3,1.03,509,0,0,0,3,0,0,UPI,0,0,0
+68,Female,Gujarat,Semi-Urban,Postpaid,417,17,3,2.05,576,0,0,0,3,3,0,Net Banking,1,0,0
+34,Female,Karnataka,Urban,Postpaid,865,27,1,0.73,830,1,0,0,5,2,3,Auto-Debit,0,0,0
+25,Female,Delhi,Urban,Prepaid,305,47,2,0.87,47,0,0,4,2,0,0,Cash,0,1,1
+52,Male,Gujarat,Urban,Prepaid,208,2,5,2.79,194,0,0,0,4,5,2,UPI,1,0,1
+52,Female,Karnataka,Rural,Prepaid,538,63,20,13.04,554,0,0,0,4,0,0,UPI,0,1,0
+50,Female,Uttar Pradesh,Urban,Postpaid,374,62,3,2.9,231,0,0,4,5,2,1,Auto-Debit,0,0,0
+22,Male,Madhya Pradesh,Semi-Urban,Postpaid,779,19,3,3.13,770,0,1,1,5,1,1,UPI,1,1,1
+59,Male,Odisha,Urban,Prepaid,154,17,2,1.61,375,0,0,2,4,1,0,Net Banking,1,0,0
+56,Female,Uttar Pradesh,Semi-Urban,Prepaid,473,69,5,3.08,395,0,0,0,5,0,0,UPI,0,0,0
+58,Female,Telangana,Urban,Postpaid,665,39,1,0.5,477,0,0,1,4,2,0,Cash,0,0,0
+45,Male,Andhra Pradesh,Urban,Prepaid,155,71,50,54.29,542,0,0,0,5,5,1,Net Banking,0,0,0
+24,Female,Andhra Pradesh,Semi-Urban,Prepaid,526,39,10,10.86,348,0,0,2,3,1,0,UPI,1,0,0
+26,Female,Andhra Pradesh,Urban,Postpaid,647,36,100,104,246,0,1,0,2,1,0,Net Banking,0,0,0
+25,Male,Telangana,Urban,Prepaid,389,40,20,18.57,63,0,0,0,4,0,4,UPI,0,0,0
+29,Male,Odisha,Urban,Postpaid,514,45,5,2.8,295,0,0,2,3,4,5,UPI,0,1,1
+51,Male,Bihar,Urban,Prepaid,479,4,5,4.77,669,0,0,1,3,5,0,Auto-Debit,0,0,0
+50,Female,Uttar Pradesh,Urban,Prepaid,483,25,3,1.88,753,0,0,1,4,3,0,UPI,0,0,0
+65,Male,Karnataka,Urban,Postpaid,797,69,5,2.81,804,0,0,0,3,1,1,UPI,0,0,0
+40,Female,Telangana,Rural,Prepaid,439,30,50,44.79,853,0,0,0,4,5,2,Net Banking,0,0,0
+41,Female,Andhra Pradesh,Semi-Urban,Postpaid,1046,68,2,0.73,109,0,0,1,1,0,0,UPI,0,0,0
+54,Female,Odisha,Semi-Urban,Prepaid,296,29,20,6.78,706,1,0,1,5,1,0,Auto-Debit,0,1,0
+52,Male,Rajasthan,Urban,Prepaid,519,68,3,1.98,442,0,0,5,5,1,2,UPI,0,0,0
+61,Female,Telangana,Rural,Prepaid,419,51,20,13.13,281,0,0,2,5,1,3,Auto-Debit,0,1,1
+57,Male,Kerala,Urban,Prepaid,277,24,50,50.83,41,0,1,1,3,3,2,Net Banking,0,0,0
+39,Female,Bihar,Urban,Prepaid,483,14,10,4.01,430,0,0,3,4,2,0,Net Banking,0,0,0
+44,Male,Karnataka,Semi-Urban,Prepaid,317,69,10,3.99,845,0,0,0,5,0,0,UPI,0,0,0
+52,Male,Andhra Pradesh,Urban,Prepaid,375,18,5,2.09,753,1,0,0,5,0,1,Net Banking,0,1,0
+18,Female,West Bengal,Urban,Prepaid,535,42,20,6.48,311,0,1,0,4,0,0,UPI,0,0,0
+52,Male,Tamil Nadu,Semi-Urban,Postpaid,1081,57,50,17.87,141,1,1,0,3,1,0,UPI,0,1,0
+54,Male,Odisha,Rural,Postpaid,633,12,10,8.28,752,0,0,2,4,0,0,Auto-Debit,0,0,0
+64,Female,Tamil Nadu,Semi-Urban,Postpaid,846,17,10,6.45,407,0,0,1,4,0,0,UPI,1,0,0
+31,Female,Gujarat,Semi-Urban,Prepaid,159,30,10,9.11,780,0,0,1,3,2,0,Net Banking,0,0,0
+20,Female,Tamil Nadu,Rural,Prepaid,152,23,20,21.88,297,0,0,0,4,3,2,Auto-Debit,1,0,0
+18,Female,Karnataka,Urban,Postpaid,572,1,5,4.14,327,0,0,1,5,4,1,UPI,0,0,0
+22,Female,Punjab,Urban,Prepaid,124,32,20,6.81,346,1,0,0,4,5,3,UPI,0,1,1
+43,Male,Madhya Pradesh,Urban,Prepaid,434,9,5,1.92,599,0,0,1,4,3,2,Auto-Debit,1,1,1
+31,Male,Karnataka,Urban,Postpaid,713,15,2,2.01,538,1,1,0,4,0,0,Auto-Debit,0,0,0
+56,Male,Bihar,Urban,Postpaid,799,28,5,3.61,575,0,0,2,5,3,0,Auto-Debit,0,1,0
+44,Female,Kerala,Rural,Prepaid,198,24,5,4.8,804,1,0,0,4,1,0,Cash,1,0,0
+26,Female,Karnataka,Semi-Urban,Prepaid,172,60,2,1.97,394,0,0,0,4,2,0,Net Banking,0,0,0
+32,Male,Telangana,Semi-Urban,Postpaid,378,35,2,2.08,576,0,0,1,4,1,3,UPI,0,0,0
+32,Male,Odisha,Urban,Prepaid,269,27,5,5.3,300,0,0,2,4,3,0,Net Banking,0,0,0
+43,Female,Delhi,Rural,Postpaid,516,20,2,1.49,503,0,0,1,4,1,0,Auto-Debit,1,0,0
+59,Male,Odisha,Rural,Postpaid,657,65,3,1.72,768,0,0,2,4,0,1,UPI,1,0,0
+30,Female,Madhya Pradesh,Rural,Postpaid,917,49,10,10.69,566,0,0,5,4,1,0,Auto-Debit,0,0,0
+68,Male,West Bengal,Urban,Prepaid,121,1,50,36.9,263,0,0,5,4,0,1,Auto-Debit,0,1,1
+49,Female,Tamil Nadu,Semi-Urban,Prepaid,489,10,10,3.51,88,1,0,2,1,5,0,Net Banking,1,0,1
+56,Male,Madhya Pradesh,Urban,Postpaid,480,47,100,81.42,280,0,0,2,3,1,0,Auto-Debit,0,1,0
+66,Female,Tamil Nadu,Urban,Postpaid,875,59,10,7.7,876,0,0,0,2,1,0,Net Banking,0,1,1
+69,Female,Gujarat,Urban,Postpaid,545,62,3,3.05,115,0,0,2,5,4,3,UPI,1,0,0
+49,Female,Madhya Pradesh,Semi-Urban,Prepaid,206,18,10,8.23,792,1,0,0,3,2,0,Auto-Debit,0,0,0
+21,Female,Andhra Pradesh,Semi-Urban,Prepaid,433,46,10,5.79,419,0,0,4,2,0,0,Net Banking,0,0,1
+47,Female,Bihar,Urban,Postpaid,721,32,5,5.36,209,1,0,0,2,0,0,UPI,1,1,1
+54,Female,Bihar,Urban,Postpaid,619,27,1,0.94,748,1,0,0,4,1,0,UPI,1,1,1
+40,Male,Tamil Nadu,Semi-Urban,Postpaid,386,18,10,8.04,885,1,0,1,1,3,0,Auto-Debit,0,0,0
+56,Female,West Bengal,Urban,Postpaid,516,39,1,0.53,178,1,1,0,4,3,1,Auto-Debit,0,0,0
+62,Female,Andhra Pradesh,Urban,Prepaid,304,49,10,5.99,612,0,0,0,2,5,2,Cash,0,0,0
+32,Male,Maharashtra,Urban,Postpaid,818,44,3,2.51,150,0,0,1,5,0,1,UPI,0,0,0
+60,Female,Uttar Pradesh,Semi-Urban,Postpaid,577,54,5,1.79,794,0,0,2,5,0,0,Auto-Debit,0,0,0
+46,Female,Uttar Pradesh,Urban,Prepaid,425,34,5,2.53,634,0,0,1,5,0,0,Net Banking,0,0,0
+53,Female,West Bengal,Urban,Postpaid,1021,71,1,0.87,285,0,0,0,3,2,0,Auto-Debit,0,1,0
+30,Male,Delhi,Urban,Prepaid,245,36,5,3.42,795,0,0,2,4,0,0,Auto-Debit,0,1,0
+49,Male,Maharashtra,Rural,Prepaid,100,18,10,6.22,893,0,0,0,4,0,0,Auto-Debit,0,0,0
+24,Female,Gujarat,Semi-Urban,Postpaid,949,38,20,8.42,829,0,0,0,3,1,0,UPI,0,0,0
+68,Female,West Bengal,Semi-Urban,Prepaid,532,59,20,13.07,338,0,1,1,3,1,1,Auto-Debit,0,1,0
+39,Male,Andhra Pradesh,Urban,Prepaid,223,9,5,4.58,88,1,0,2,1,2,1,UPI,0,0,0
+45,Female,Uttar Pradesh,Semi-Urban,Prepaid,179,51,10,5.11,98,0,0,1,4,1,3,Net Banking,1,0,0
+19,Female,Telangana,Urban,Prepaid,583,35,3,0.91,475,0,0,1,3,1,1,Auto-Debit,1,0,0
+59,Male,Uttar Pradesh,Semi-Urban,Prepaid,238,5,3,2.5,417,0,1,0,4,1,0,UPI,0,0,0
+62,Female,Uttar Pradesh,Rural,Prepaid,424,14,3,3.23,115,0,0,1,4,3,0,UPI,0,0,0
+23,Male,Andhra Pradesh,Semi-Urban,Postpaid,1119,30,5,3.93,815,1,0,0,4,1,0,UPI,0,0,0
+45,Male,Rajasthan,Rural,Prepaid,386,4,3,1.19,256,0,1,4,5,0,0,Cash,0,1,1
+45,Male,West Bengal,Semi-Urban,Prepaid,459,39,2,1.11,622,0,0,2,4,0,0,UPI,0,0,0
+61,Female,Karnataka,Urban,Prepaid,438,64,10,9.94,655,0,0,1,4,0,0,Auto-Debit,1,0,0
+61,Male,Odisha,Rural,Postpaid,487,25,10,4.86,213,0,0,1,4,3,0,UPI,0,0,0
+37,Male,Gujarat,Urban,Prepaid,536,28,5,3.93,821,0,0,2,2,0,1,Auto-Debit,0,0,0
+47,Male,Uttar Pradesh,Semi-Urban,Postpaid,943,66,2,1.24,351,0,1,1,3,4,1,UPI,0,1,0
+28,Male,Odisha,Urban,Postpaid,726,22,5,2.33,347,0,0,0,5,0,0,Auto-Debit,0,0,0
+45,Female,Bihar,Urban,Postpaid,801,31,5,4.75,595,1,1,0,5,4,0,Auto-Debit,0,0,0
+42,Male,Telangana,Urban,Prepaid,309,23,10,8.94,428,0,1,1,4,3,0,UPI,0,1,0
+56,Male,Tamil Nadu,Urban,Postpaid,559,48,3,2.49,738,0,0,3,3,1,1,Auto-Debit,0,0,0
+50,Female,West Bengal,Semi-Urban,Prepaid,488,20,10,4.89,322,0,0,0,2,2,0,UPI,0,1,1
+18,Male,Kerala,Semi-Urban,Postpaid,370,38,20,7.57,322,0,0,0,3,0,1,Auto-Debit,1,0,0
+44,Male,Andhra Pradesh,Urban,Postpaid,777,55,3,2.28,514,0,0,0,5,1,1,Cash,0,0,0
+69,Male,Rajasthan,Urban,Prepaid,377,68,100,74.29,476,0,0,2,4,0,0,Auto-Debit,0,1,0
+30,Male,Bihar,Semi-Urban,Prepaid,121,1,5,2.25,832,1,0,0,5,1,0,Cash,0,0,0
+58,Male,West Bengal,Urban,Prepaid,508,7,3,1.03,721,0,0,0,4,2,0,UPI,0,0,0
+20,Male,Gujarat,Semi-Urban,Postpaid,590,57,5,1.82,441,1,0,1,2,0,0,Net Banking,0,0,0
+56,Male,Telangana,Semi-Urban,Prepaid,489,12,2,2.19,537,0,0,1,2,3,1,Auto-Debit,0,0,0
+23,Female,Rajasthan,Rural,Prepaid,433,5,2,1.85,763,1,1,0,1,1,0,UPI,0,1,1
+25,Male,Gujarat,Semi-Urban,Prepaid,142,50,5,5.19,815,0,0,0,4,1,0,UPI,0,0,0
+44,Female,Bihar,Urban,Postpaid,1055,42,10,4.56,273,0,1,1,3,5,3,UPI,0,0,0
+26,Female,West Bengal,Semi-Urban,Postpaid,934,12,50,53.42,449,0,0,1,4,2,0,UPI,0,0,0
+54,Male,Karnataka,Urban,Postpaid,1110,18,10,4.14,183,1,0,5,4,2,0,UPI,0,0,0
+50,Female,Bihar,Urban,Postpaid,582,66,2,1.41,845,1,0,1,3,2,0,UPI,0,1,0
+68,Male,Kerala,Semi-Urban,Prepaid,134,17,10,9.64,453,0,0,0,2,4,1,Auto-Debit,0,0,1
+59,Female,Gujarat,Urban,Prepaid,207,68,10,5.8,302,0,0,1,2,0,1,Auto-Debit,0,1,1
+61,Male,Rajasthan,Semi-Urban,Postpaid,676,71,20,12.8,676,0,0,0,4,2,0,UPI,0,0,0
+41,Male,Rajasthan,Rural,Prepaid,290,62,20,8.05,854,0,0,0,4,1,4,Auto-Debit,0,0,0
+32,Male,Odisha,Rural,Prepaid,317,41,20,7.97,549,0,0,3,3,0,1,Auto-Debit,1,1,1
+49,Female,Gujarat,Rural,Prepaid,283,34,5,3.98,157,1,0,2,5,0,0,Auto-Debit,0,0,0
+49,Male,Punjab,Urban,Prepaid,167,70,10,8.4,402,0,0,0,4,0,1,Auto-Debit,1,0,0
+41,Female,West Bengal,Urban,Prepaid,415,45,3,2.77,597,0,0,0,4,1,0,UPI,0,0,0
+58,Male,Punjab,Semi-Urban,Postpaid,654,58,100,74.53,667,0,0,0,4,4,1,UPI,0,0,0
+69,Female,Delhi,Urban,Prepaid,153,51,3,2.45,188,0,1,0,5,3,0,Cash,0,0,0
+66,Male,West Bengal,Semi-Urban,Prepaid,476,34,1,0.5,600,0,1,1,4,1,1,UPI,0,0,0
+66,Female,Gujarat,Semi-Urban,Prepaid,195,44,2,0.86,599,0,1,0,3,0,0,Cash,0,0,0
+69,Male,Maharashtra,Semi-Urban,Postpaid,330,15,10,10.88,681,0,0,4,3,0,2,UPI,0,0,0
+29,Male,Telangana,Urban,Prepaid,185,70,5,1.8,205,0,0,0,4,1,0,Cash,1,0,0
+56,Male,Gujarat,Urban,Postpaid,720,50,5,4.22,649,0,0,1,4,2,1,Net Banking,0,0,0
+19,Male,Punjab,Urban,Postpaid,828,32,50,22.04,240,0,0,3,4,0,0,UPI,0,0,0
+20,Female,Karnataka,Urban,Prepaid,306,67,50,43.67,476,0,0,1,5,1,3,UPI,1,0,0
+66,Male,Telangana,Rural,Postpaid,603,3,3,2.59,615,0,0,0,5,4,2,Auto-Debit,1,0,1
+54,Female,Gujarat,Urban,Postpaid,338,51,3,1.46,196,1,0,0,3,2,0,Auto-Debit,1,1,1
+66,Male,Gujarat,Urban,Postpaid,788,67,20,10.31,489,0,0,0,2,3,3,Cash,0,0,0
+34,Male,Karnataka,Urban,Postpaid,943,48,50,41.19,386,0,0,4,3,2,0,Cash,0,1,1
+66,Male,Gujarat,Semi-Urban,Prepaid,177,17,5,3.06,333,1,0,3,4,0,1,Net Banking,0,0,0
+19,Male,Telangana,Semi-Urban,Prepaid,165,7,10,4.56,262,0,0,4,3,0,1,Net Banking,0,0,0
+19,Female,Uttar Pradesh,Urban,Prepaid,441,13,3,2.66,356,0,0,2,2,3,0,Cash,0,0,0
+45,Male,Maharashtra,Urban,Prepaid,511,66,20,8.47,211,1,0,0,2,2,4,UPI,0,1,1
+40,Male,Tamil Nadu,Urban,Postpaid,365,4,10,9.85,663,1,1,3,3,1,0,UPI,1,0,1
+54,Female,Maharashtra,Urban,Prepaid,195,10,5,3.56,363,0,0,5,2,0,0,UPI,1,1,1
+49,Female,Andhra Pradesh,Semi-Urban,Postpaid,567,17,2,0.77,744,0,0,0,2,2,2,UPI,0,0,0
+50,Male,Kerala,Semi-Urban,Postpaid,521,52,50,42.76,58,0,1,0,4,0,1,Auto-Debit,0,0,0
+18,Male,Odisha,Urban,Postpaid,1103,6,10,7.15,743,0,0,1,1,0,0,UPI,0,1,1
+36,Female,Gujarat,Urban,Postpaid,829,69,3,1.62,122,0,0,0,2,0,0,UPI,0,0,0
+19,Male,Uttar Pradesh,Rural,Prepaid,101,9,10,6.38,870,0,0,0,5,1,1,UPI,0,0,0
+61,Male,West Bengal,Semi-Urban,Prepaid,412,21,10,5.39,897,1,0,4,5,0,0,Net Banking,1,0,1
+43,Male,Gujarat,Semi-Urban,Prepaid,130,24,5,2.55,717,0,0,3,3,0,3,UPI,0,1,1
+49,Female,Punjab,Urban,Prepaid,385,4,10,4.31,359,0,0,0,2,2,1,Auto-Debit,0,0,1
+23,Female,Bihar,Semi-Urban,Prepaid,180,24,5,2.95,752,0,0,0,4,1,0,Net Banking,0,0,0
+49,Male,Uttar Pradesh,Urban,Prepaid,141,59,50,25.04,213,0,0,2,3,1,0,UPI,1,0,0
+21,Male,Karnataka,Semi-Urban,Postpaid,682,3,2,1.69,124,0,1,1,1,1,0,Auto-Debit,1,0,1
+28,Male,Uttar Pradesh,Rural,Prepaid,203,68,2,1.69,814,0,0,0,2,5,0,UPI,1,0,1
+34,Female,Andhra Pradesh,Urban,Prepaid,99,40,3,2.1,678,0,0,2,2,0,2,UPI,0,0,0
+55,Male,Karnataka,Urban,Postpaid,898,48,10,9.22,778,0,1,3,4,0,4,Cash,0,0,0
+41,Male,Delhi,Urban,Prepaid,368,54,10,9.73,382,1,0,3,5,2,1,UPI,0,0,0
+22,Female,Tamil Nadu,Urban,Prepaid,278,35,20,15.28,294,0,0,0,4,0,0,Auto-Debit,0,0,0
+69,Male,Madhya Pradesh,Urban,Postpaid,689,56,10,7.95,676,1,0,0,4,1,0,UPI,1,0,0
+51,Female,Telangana,Urban,Postpaid,881,40,5,2.63,685,0,0,3,3,1,1,Net Banking,0,0,0
+23,Male,Uttar Pradesh,Semi-Urban,Postpaid,343,68,100,101.59,48,0,0,0,4,5,1,UPI,0,0,0
+39,Male,Telangana,Semi-Urban,Prepaid,108,46,3,0.96,772,0,0,2,3,4,1,Net Banking,0,0,0
+28,Male,Rajasthan,Urban,Postpaid,963,13,20,11.58,675,0,0,0,3,5,0,Auto-Debit,0,1,0
+65,Female,Punjab,Rural,Postpaid,897,27,5,4.39,655,0,0,0,4,0,3,Net Banking,0,0,0
+33,Female,Gujarat,Urban,Prepaid,324,6,10,3.64,528,0,0,0,5,3,0,Net Banking,0,0,0
+50,Female,Punjab,Rural,Postpaid,400,17,10,4.47,168,0,1,0,3,0,1,Net Banking,0,0,0
+26,Male,Telangana,Urban,Postpaid,906,36,10,7.71,666,0,0,3,5,2,1,UPI,0,0,0
+23,Female,Maharashtra,Rural,Prepaid,503,2,2,1.5,745,0,0,0,3,2,1,Net Banking,1,0,0
+33,Male,Madhya Pradesh,Semi-Urban,Prepaid,224,52,5,4.46,602,0,0,3,3,0,0,UPI,0,1,1
+46,Male,Maharashtra,Rural,Postpaid,841,66,5,4.75,791,0,0,3,1,2,1,Net Banking,0,0,1
+20,Female,Delhi,Rural,Postpaid,1060,52,20,8.06,839,0,0,0,4,0,0,UPI,0,0,0
+37,Male,Madhya Pradesh,Urban,Prepaid,195,43,5,1.57,554,0,0,2,5,0,1,Auto-Debit,0,0,0
+53,Male,Madhya Pradesh,Rural,Postpaid,528,22,50,42.59,284,0,0,0,4,4,0,UPI,1,1,1
+36,Male,Maharashtra,Urban,Prepaid,213,55,5,2.71,114,0,0,2,2,0,0,UPI,0,0,0
+43,Male,Karnataka,Urban,Prepaid,289,67,5,4,487,0,0,1,2,0,0,UPI,0,0,0
+20,Male,Andhra Pradesh,Urban,Prepaid,593,60,10,4.2,561,0,0,0,4,1,2,UPI,1,0,0
+36,Female,Telangana,Semi-Urban,Postpaid,454,58,5,3.38,591,0,1,0,3,3,1,UPI,1,0,0
+37,Male,Maharashtra,Urban,Postpaid,722,12,50,35.18,705,0,0,1,3,0,1,Net Banking,0,1,0
+49,Female,Punjab,Semi-Urban,Prepaid,546,69,10,7.68,121,0,0,3,5,1,1,Auto-Debit,0,0,0
+24,Female,Karnataka,Semi-Urban,Prepaid,302,39,5,3.55,629,1,0,0,4,4,2,UPI,0,0,0
+69,Male,Punjab,Semi-Urban,Prepaid,154,13,1,0.7,98,0,0,1,3,0,0,Net Banking,1,0,0
+58,Male,Andhra Pradesh,Rural,Postpaid,1058,41,5,2.83,66,0,0,0,1,0,1,UPI,0,0,0
+50,Male,Delhi,Urban,Postpaid,840,57,3,1.07,794,0,0,2,1,2,1,UPI,0,0,0
+57,Female,Gujarat,Urban,Postpaid,460,53,10,3.72,793,0,0,0,4,1,0,UPI,0,1,0
+56,Male,Andhra Pradesh,Urban,Postpaid,1046,12,3,1.94,169,0,1,1,5,3,0,UPI,0,0,0
+35,Female,Kerala,Urban,Postpaid,1001,13,3,1.75,896,0,0,0,4,0,0,Auto-Debit,1,0,0
+57,Male,West Bengal,Urban,Prepaid,253,57,3,2.14,709,0,1,1,3,4,0,UPI,1,0,0
+18,Female,Karnataka,Urban,Prepaid,382,40,2,1.09,595,0,0,2,1,4,0,Cash,0,1,1
+28,Male,Delhi,Urban,Prepaid,307,45,3,2.55,207,1,0,2,5,0,0,UPI,0,0,0
+45,Male,Kerala,Rural,Postpaid,991,35,20,19.82,838,0,0,2,5,0,1,Auto-Debit,0,1,0
+42,Female,Rajasthan,Semi-Urban,Postpaid,786,3,10,5.39,842,0,0,1,4,6,0,Net Banking,1,0,0
+67,Female,Delhi,Urban,Prepaid,285,5,10,4.54,647,0,0,3,1,1,0,UPI,1,0,1
+40,Male,Maharashtra,Semi-Urban,Postpaid,471,11,10,3.93,166,0,0,1,4,1,3,Auto-Debit,1,0,0
+48,Female,Odisha,Urban,Prepaid,540,71,3,2.38,219,0,0,3,5,2,0,Net Banking,1,0,0
+47,Male,Maharashtra,Urban,Prepaid,228,56,20,13.1,669,0,0,1,4,3,0,Auto-Debit,0,0,0
+59,Female,Andhra Pradesh,Semi-Urban,Postpaid,434,10,2,0.9,371,0,1,1,4,3,1,Cash,1,0,0
+52,Female,West Bengal,Semi-Urban,Postpaid,982,34,3,2.47,588,1,0,0,2,0,0,UPI,0,0,0
+24,Male,Delhi,Urban,Postpaid,1021,67,5,2.09,34,0,1,1,2,0,0,Net Banking,0,0,0
+33,Male,Telangana,Rural,Prepaid,297,31,2,1.49,286,0,0,0,2,3,0,UPI,0,0,1
+43,Male,Tamil Nadu,Rural,Prepaid,111,71,10,7.22,841,0,1,3,5,3,4,Auto-Debit,0,0,1
+65,Female,Gujarat,Semi-Urban,Postpaid,720,66,5,4.44,691,0,0,1,4,2,1,UPI,1,1,0
+69,Female,Andhra Pradesh,Semi-Urban,Prepaid,187,70,10,3.44,835,0,0,5,4,6,2,Cash,0,0,0
+66,Male,Maharashtra,Semi-Urban,Prepaid,313,41,5,5.05,272,0,0,0,2,2,5,Net Banking,1,1,1
+19,Male,West Bengal,Urban,Postpaid,906,63,3,2.59,816,1,0,0,5,0,3,UPI,0,0,0
+18,Female,Gujarat,Urban,Prepaid,376,32,10,4.73,749,0,0,3,5,3,1,Cash,1,0,0
+65,Female,Delhi,Urban,Postpaid,822,20,3,1.34,444,0,0,0,3,1,1,Auto-Debit,0,1,0
+29,Male,Telangana,Semi-Urban,Postpaid,879,57,5,3.23,656,1,0,1,5,0,0,Auto-Debit,0,0,0
+22,Male,Delhi,Semi-Urban,Prepaid,579,50,2,1.91,736,0,0,3,3,0,0,Auto-Debit,0,0,0
+54,Male,Madhya Pradesh,Urban,Prepaid,301,25,10,9.74,372,0,0,1,3,2,1,Net Banking,0,0,0
+49,Male,West Bengal,Rural,Postpaid,495,12,10,7.16,711,0,0,0,3,5,1,Net Banking,1,0,1
+26,Female,Kerala,Rural,Postpaid,1180,71,5,4.94,408,0,0,3,5,0,4,UPI,0,0,0
+58,Male,Maharashtra,Semi-Urban,Postpaid,397,39,50,15.22,623,0,1,0,5,0,0,Cash,0,1,0
+52,Female,Telangana,Semi-Urban,Postpaid,904,17,20,6.56,695,0,0,3,3,1,1,UPI,1,0,0
+36,Male,Tamil Nadu,Rural,Postpaid,321,45,10,10.29,682,0,0,0,4,3,1,UPI,0,0,0
+65,Female,Delhi,Urban,Postpaid,749,11,10,9.2,855,0,1,1,4,2,0,Auto-Debit,0,0,0
+33,Female,Tamil Nadu,Semi-Urban,Prepaid,264,70,3,1.98,175,0,0,0,5,1,1,Cash,0,0,0
+20,Female,Delhi,Urban,Prepaid,139,23,10,9.03,352,0,0,2,3,2,0,Auto-Debit,0,0,0
+37,Male,Maharashtra,Semi-Urban,Prepaid,527,70,3,3.19,151,1,0,0,4,0,0,UPI,1,0,0
+41,Male,Gujarat,Urban,Prepaid,442,38,2,1.84,281,0,0,2,4,1,0,UPI,1,0,0
+50,Male,Uttar Pradesh,Rural,Prepaid,522,2,100,97.39,884,1,0,1,1,0,0,Auto-Debit,1,1,1
+41,Female,Gujarat,Rural,Prepaid,464,37,10,9.08,340,0,0,0,3,4,0,UPI,0,0,0
+69,Female,Delhi,Urban,Postpaid,484,49,5,2.17,630,0,0,2,4,0,1,Auto-Debit,0,0,0
+28,Female,Punjab,Semi-Urban,Prepaid,195,52,3,2.9,504,0,0,1,3,2,0,Cash,0,0,0
+66,Female,Odisha,Rural,Prepaid,243,33,10,4.56,599,0,0,0,5,0,0,UPI,1,1,1
+25,Female,Bihar,Semi-Urban,Prepaid,314,22,1,1.01,521,0,1,0,1,1,0,UPI,0,0,0
+53,Male,Uttar Pradesh,Rural,Prepaid,327,5,2,1.33,604,0,0,0,5,0,0,Net Banking,0,1,1
+55,Female,Kerala,Semi-Urban,Prepaid,411,18,1,0.84,376,0,1,0,3,0,0,UPI,1,0,0
+57,Male,Uttar Pradesh,Urban,Prepaid,228,38,5,3.49,849,0,1,0,1,0,0,Cash,1,0,1
+37,Male,Odisha,Urban,Prepaid,450,37,10,3.75,516,0,0,0,3,2,1,Auto-Debit,1,0,0
+52,Male,Tamil Nadu,Urban,Postpaid,523,64,2,1.07,502,0,0,1,4,1,2,Auto-Debit,1,0,0
+65,Male,West Bengal,Semi-Urban,Postpaid,519,10,10,10.87,411,0,0,1,4,2,0,Auto-Debit,0,0,0
+42,Male,Tamil Nadu,Urban,Postpaid,478,42,3,3.21,309,0,1,0,3,1,0,Net Banking,0,1,0
+52,Female,Andhra Pradesh,Semi-Urban,Postpaid,930,48,10,5.56,101,1,0,4,2,1,0,Cash,0,0,1
+42,Male,Tamil Nadu,Semi-Urban,Prepaid,422,44,100,109.7,550,0,1,3,4,1,0,UPI,0,0,0
+46,Female,Kerala,Semi-Urban,Postpaid,564,16,10,9.76,395,0,0,0,4,5,1,UPI,0,0,0
+35,Male,Punjab,Rural,Postpaid,728,54,20,15.78,123,0,0,0,4,1,2,Auto-Debit,0,0,0
+63,Male,Gujarat,Rural,Prepaid,215,35,50,16.6,402,0,0,4,1,0,2,Auto-Debit,1,0,1
+35,Male,Gujarat,Urban,Postpaid,715,28,5,5.11,368,0,0,1,4,4,0,UPI,0,0,0
+19,Male,Bihar,Rural,Prepaid,466,2,10,7.46,466,0,0,0,4,0,3,Auto-Debit,0,0,0
+52,Female,Rajasthan,Semi-Urban,Postpaid,1026,13,20,19.9,365,0,0,1,5,3,0,UPI,1,0,0
+33,Male,Delhi,Semi-Urban,Postpaid,496,41,5,4.84,693,0,0,2,4,0,1,UPI,0,0,0
+58,Female,Punjab,Rural,Prepaid,540,59,3,2.9,521,1,0,0,3,2,1,Net Banking,1,0,0
+53,Male,Rajasthan,Urban,Postpaid,352,69,50,42.93,897,1,1,2,2,0,1,UPI,1,0,1
+50,Female,Odisha,Urban,Postpaid,779,53,10,5.33,69,0,1,2,4,4,0,UPI,1,0,0
+21,Female,Andhra Pradesh,Rural,Postpaid,742,45,3,1.71,388,0,0,1,4,1,0,UPI,0,1,0
+50,Female,Maharashtra,Urban,Prepaid,500,20,5,2.73,603,1,0,3,5,0,0,Auto-Debit,1,0,0
+31,Male,Odisha,Rural,Postpaid,550,24,10,3.16,283,1,0,0,4,0,0,Net Banking,0,0,0
+38,Male,Delhi,Rural,Prepaid,511,61,5,3.83,610,0,0,1,4,1,0,Auto-Debit,1,0,0
+65,Male,Delhi,Urban,Prepaid,250,58,10,8.59,427,0,0,0,3,2,1,Auto-Debit,0,0,0
+37,Female,Madhya Pradesh,Rural,Prepaid,172,27,10,9.83,786,1,0,0,3,1,0,UPI,0,0,0
+25,Male,Madhya Pradesh,Urban,Postpaid,422,26,10,4.12,199,0,0,0,3,0,1,Net Banking,1,1,1
+24,Male,Karnataka,Semi-Urban,Postpaid,1178,7,5,3.68,719,0,1,0,1,1,0,Auto-Debit,0,0,0
+20,Female,Odisha,Semi-Urban,Postpaid,686,42,10,3.06,730,0,0,0,4,1,2,Auto-Debit,1,0,0
+34,Male,Karnataka,Rural,Postpaid,638,47,10,3.76,540,1,0,0,3,0,0,Auto-Debit,0,0,0
+50,Female,Tamil Nadu,Urban,Prepaid,594,53,10,3.43,289,1,0,0,3,0,3,UPI,1,0,0
+65,Male,Maharashtra,Semi-Urban,Prepaid,310,59,5,4.4,613,0,0,2,2,2,0,UPI,1,0,1
+29,Male,Uttar Pradesh,Semi-Urban,Prepaid,199,38,5,1.82,488,0,0,0,2,5,0,Auto-Debit,0,1,1
+68,Female,Bihar,Semi-Urban,Prepaid,143,69,100,87.32,558,0,0,1,1,0,3,Net Banking,0,0,1
+39,Male,Uttar Pradesh,Semi-Urban,Prepaid,180,53,2,1,370,1,0,0,4,2,0,Net Banking,0,0,0
+39,Female,Bihar,Urban,Prepaid,115,15,3,3.01,86,0,1,0,3,0,0,UPI,1,1,1
+63,Male,Madhya Pradesh,Urban,Prepaid,171,26,5,4.75,247,1,0,0,4,1,0,UPI,0,0,0
+47,Male,Madhya Pradesh,Urban,Prepaid,112,48,20,21.33,648,0,1,0,4,1,0,UPI,0,0,0
+55,Female,Madhya Pradesh,Rural,Prepaid,531,19,3,3.02,845,1,0,1,5,0,0,UPI,0,0,0
+55,Female,Punjab,Urban,Prepaid,255,9,3,3.14,714,0,1,0,1,1,0,UPI,0,0,0
+62,Female,West Bengal,Urban,Postpaid,446,64,2,1.97,760,0,0,4,3,4,2,Auto-Debit,0,0,0
+68,Male,Bihar,Rural,Postpaid,366,54,10,8.55,493,0,0,4,3,5,1,UPI,0,1,1
+25,Female,Odisha,Urban,Postpaid,819,51,3,1.31,276,0,0,0,4,0,0,UPI,1,1,1
+44,Male,Karnataka,Rural,Prepaid,502,39,5,2.59,759,1,0,2,5,0,2,Auto-Debit,0,0,0
+44,Male,Punjab,Semi-Urban,Prepaid,474,4,5,2.35,402,0,0,0,4,5,0,Auto-Debit,0,0,0
+51,Female,Gujarat,Rural,Postpaid,474,3,20,15.66,446,0,0,1,4,0,0,Auto-Debit,0,1,1
+38,Male,Uttar Pradesh,Urban,Prepaid,145,64,5,3.51,60,0,0,2,3,2,0,Cash,0,0,0
+47,Female,Andhra Pradesh,Urban,Prepaid,205,29,2,1.99,397,1,0,0,4,0,1,Auto-Debit,1,0,0
+50,Male,Kerala,Semi-Urban,Prepaid,206,11,5,5.31,588,0,1,0,1,1,0,Net Banking,0,0,0
+45,Male,Delhi,Rural,Prepaid,363,58,50,31.19,675,0,0,0,4,0,1,UPI,0,0,0
+64,Female,Karnataka,Semi-Urban,Prepaid,303,27,10,7.05,137,0,0,0,4,3,0,Net Banking,0,1,0
+50,Female,Rajasthan,Urban,Prepaid,177,21,100,107.72,613,0,0,1,3,4,4,UPI,1,0,1
+22,Female,Telangana,Semi-Urban,Postpaid,1154,39,20,10.42,868,0,0,0,3,0,1,Cash,1,0,0
+65,Female,Gujarat,Semi-Urban,Prepaid,369,46,1,0.93,447,0,0,0,5,3,0,Auto-Debit,0,0,0
+36,Female,Odisha,Semi-Urban,Prepaid,574,66,10,4.8,649,0,0,1,1,1,1,UPI,0,0,0
+21,Female,Andhra Pradesh,Semi-Urban,Postpaid,494,36,3,2.54,850,1,0,2,1,0,1,Auto-Debit,0,0,0
+52,Female,Karnataka,Rural,Prepaid,345,65,5,2.51,427,1,0,0,3,2,0,UPI,1,0,0
+66,Male,Kerala,Semi-Urban,Prepaid,117,63,3,3.02,301,0,0,2,3,1,0,UPI,0,1,0
+34,Male,Punjab,Urban,Postpaid,1127,35,3,2.25,712,0,0,1,4,0,0,UPI,1,0,0
+61,Male,Odisha,Semi-Urban,Prepaid,534,31,50,22.44,145,0,0,2,4,0,2,UPI,1,1,1
+45,Female,Maharashtra,Urban,Prepaid,124,28,3,1.44,870,0,0,2,4,5,1,Auto-Debit,1,0,0
+47,Female,Delhi,Urban,Prepaid,315,1,20,13.9,615,0,0,1,3,3,0,UPI,0,0,0
+46,Male,Karnataka,Urban,Prepaid,252,25,1,1.07,285,1,1,0,4,3,0,UPI,0,0,0
+63,Female,West Bengal,Urban,Prepaid,252,43,2,1.83,110,0,1,1,5,0,0,Auto-Debit,1,1,1
+23,Female,Madhya Pradesh,Urban,Postpaid,913,67,20,13.81,809,0,0,4,3,2,0,Cash,0,0,0
+52,Male,Madhya Pradesh,Urban,Prepaid,190,63,10,5.7,157,1,0,1,3,0,1,Cash,0,0,0
+58,Female,Delhi,Rural,Prepaid,531,51,10,7.39,867,1,0,0,5,5,4,Net Banking,0,0,0
+54,Female,Kerala,Rural,Prepaid,436,2,3,2.7,264,0,0,0,1,0,0,Net Banking,0,0,1
+41,Male,Bihar,Urban,Prepaid,578,64,5,4.64,582,0,0,5,3,1,0,Auto-Debit,0,0,0
+46,Female,Andhra Pradesh,Rural,Postpaid,412,69,10,5.6,210,0,0,0,2,1,0,Cash,0,0,0
+66,Male,Punjab,Semi-Urban,Prepaid,229,9,10,8.77,186,0,0,0,1,3,2,UPI,0,0,0
+63,Female,Madhya Pradesh,Urban,Prepaid,548,2,5,4.13,483,0,0,0,2,2,0,Auto-Debit,0,0,1
+48,Female,Karnataka,Urban,Prepaid,579,34,50,53.36,600,0,0,4,3,1,0,Net Banking,0,0,0
+52,Female,Rajasthan,Semi-Urban,Prepaid,396,60,10,10.45,886,0,0,0,4,1,1,Auto-Debit,1,0,0
+50,Male,Uttar Pradesh,Semi-Urban,Prepaid,373,61,50,46.58,790,1,0,0,3,3,0,UPI,0,0,0
+69,Female,Bihar,Semi-Urban,Postpaid,921,31,10,8.79,733,0,0,1,5,0,0,Auto-Debit,1,0,0
+38,Female,Uttar Pradesh,Urban,Prepaid,590,10,10,5.19,53,0,0,0,3,3,1,UPI,1,0,0
+49,Male,Gujarat,Urban,Prepaid,515,36,2,1.95,502,0,0,3,5,5,0,UPI,1,0,1
+40,Female,Andhra Pradesh,Urban,Prepaid,174,49,5,3.21,429,0,0,1,5,0,0,UPI,1,0,0
+50,Male,Tamil Nadu,Urban,Postpaid,311,70,20,10.36,621,0,0,1,4,0,0,Auto-Debit,0,0,0
+20,Female,Bihar,Urban,Prepaid,282,49,3,1.82,163,1,0,3,5,0,0,UPI,0,0,0
+35,Male,Maharashtra,Urban,Postpaid,764,3,2,1.94,450,0,0,4,4,0,0,UPI,1,0,1
+42,Male,Delhi,Rural,Postpaid,999,5,3,1.26,242,0,0,0,5,1,3,Auto-Debit,0,0,0
+59,Male,Gujarat,Rural,Postpaid,965,61,3,1.99,511,0,0,0,3,2,0,Cash,0,0,0
+48,Female,Tamil Nadu,Urban,Prepaid,147,26,50,34.69,377,0,0,2,3,1,1,UPI,0,0,0
+20,Male,Punjab,Rural,Prepaid,153,5,20,6.59,195,0,0,0,4,0,0,Net Banking,1,0,0
+57,Female,Bihar,Urban,Postpaid,1145,15,5,2.28,377,0,1,4,3,2,0,Auto-Debit,0,0,0
+63,Male,West Bengal,Semi-Urban,Postpaid,719,16,2,1.92,878,0,1,4,5,2,0,UPI,0,0,0
+41,Male,West Bengal,Urban,Postpaid,1188,1,10,9.65,427,0,0,0,5,4,0,Auto-Debit,1,0,0
+67,Male,Maharashtra,Semi-Urban,Prepaid,406,16,10,5.34,612,0,1,4,3,0,0,UPI,1,0,0
+49,Female,Andhra Pradesh,Rural,Prepaid,454,37,100,99.99,755,0,0,0,5,2,0,Auto-Debit,0,0,0
+64,Male,Madhya Pradesh,Semi-Urban,Prepaid,471,3,5,4.59,464,1,0,1,2,4,0,UPI,1,1,1
+39,Female,Odisha,Urban,Postpaid,726,52,3,1.9,606,1,0,0,3,1,0,UPI,0,0,0
+40,Female,Karnataka,Semi-Urban,Prepaid,361,47,5,4.49,250,1,1,3,4,1,4,Auto-Debit,1,0,1
+19,Female,Gujarat,Urban,Prepaid,144,13,100,106.91,337,0,0,1,3,0,0,UPI,0,0,0
+44,Male,Telangana,Rural,Postpaid,489,55,10,6.67,827,0,0,1,4,3,0,Cash,0,0,0
+59,Male,Bihar,Semi-Urban,Prepaid,454,21,10,4.91,726,0,0,3,4,1,0,Auto-Debit,1,0,0
+19,Female,Gujarat,Urban,Postpaid,854,66,3,3.16,748,1,0,1,3,4,0,Net Banking,0,0,0
+43,Male,Bihar,Semi-Urban,Prepaid,506,54,10,7.83,495,0,0,0,4,3,1,Net Banking,0,1,0
+34,Female,Delhi,Semi-Urban,Prepaid,287,27,10,3.84,128,0,0,3,4,1,0,UPI,1,0,1
+57,Male,Bihar,Urban,Prepaid,408,38,3,2.27,271,0,0,2,3,1,0,Net Banking,0,0,0
+50,Female,Delhi,Semi-Urban,Postpaid,614,58,5,3.5,187,0,0,4,3,0,0,Cash,1,0,0
+26,Female,Bihar,Urban,Prepaid,227,62,3,2.95,639,0,0,4,5,0,1,UPI,0,0,0
+60,Female,West Bengal,Semi-Urban,Prepaid,147,46,3,2.17,583,0,0,0,5,2,0,UPI,0,1,0
+65,Male,West Bengal,Rural,Postpaid,740,11,1,0.5,680,0,0,0,3,2,0,UPI,1,0,0
+56,Female,Andhra Pradesh,Rural,Prepaid,364,8,3,2.52,824,0,0,0,1,1,0,UPI,0,0,0
+46,Male,Kerala,Semi-Urban,Prepaid,216,71,5,3.67,256,0,0,1,5,3,0,UPI,0,0,0
+59,Male,Rajasthan,Semi-Urban,Prepaid,562,64,1,0.5,452,0,0,0,4,0,0,Cash,0,0,0
+43,Female,Rajasthan,Urban,Prepaid,242,21,3,2.28,101,1,0,2,2,1,2,Net Banking,1,1,1
+52,Female,Kerala,Semi-Urban,Postpaid,971,63,20,19.14,272,0,0,0,4,1,1,Auto-Debit,0,1,0
+67,Female,Madhya Pradesh,Urban,Prepaid,298,64,5,1.61,559,0,1,0,4,0,1,Auto-Debit,0,0,0
+42,Female,Rajasthan,Semi-Urban,Prepaid,255,20,10,8.05,618,0,1,0,4,5,0,Cash,0,0,0
+41,Male,Andhra Pradesh,Urban,Prepaid,585,8,5,2.9,74,0,0,0,3,2,0,Auto-Debit,0,1,0
+30,Male,Telangana,Urban,Postpaid,767,58,10,5.34,501,0,0,1,4,1,0,UPI,0,0,0
+24,Female,Telangana,Semi-Urban,Prepaid,232,46,3,1.84,400,0,1,0,2,1,1,Auto-Debit,1,0,1
+53,Male,Karnataka,Urban,Prepaid,498,31,20,11.47,884,0,1,0,5,0,0,Auto-Debit,1,0,0
+62,Male,Karnataka,Semi-Urban,Prepaid,246,9,2,1.93,681,0,1,0,4,1,4,Auto-Debit,0,0,0
+37,Male,Telangana,Urban,Prepaid,434,15,10,5.2,718,1,0,2,4,2,0,UPI,0,0,0
+18,Male,Gujarat,Urban,Prepaid,169,26,3,2.66,763,0,0,2,4,4,3,Auto-Debit,1,1,1
+25,Male,Odisha,Semi-Urban,Prepaid,331,10,10,3.75,121,0,0,0,3,3,0,UPI,0,0,0
+63,Male,Uttar Pradesh,Urban,Postpaid,817,29,5,5.31,51,0,0,2,5,0,0,UPI,0,0,0
+33,Male,Kerala,Urban,Prepaid,397,36,5,3.99,201,1,0,0,1,1,0,UPI,1,0,1
+31,Male,Karnataka,Semi-Urban,Postpaid,731,37,3,2.6,633,0,0,0,5,0,1,Net Banking,1,0,0
+29,Female,Odisha,Urban,Postpaid,786,71,10,5.38,221,0,0,1,3,0,0,UPI,0,0,0
+68,Male,Odisha,Rural,Prepaid,432,23,100,62.97,106,0,0,0,3,1,2,UPI,0,0,0
+40,Male,Tamil Nadu,Urban,Prepaid,297,41,20,9.58,310,0,0,2,4,1,2,UPI,0,0,0
+32,Female,West Bengal,Urban,Prepaid,259,28,2,2.09,393,0,0,0,4,0,1,UPI,0,0,0
+45,Male,Delhi,Semi-Urban,Postpaid,1008,48,5,3.45,208,0,0,4,5,2,1,Cash,1,0,1
+51,Female,Andhra Pradesh,Urban,Prepaid,219,38,50,40.22,267,0,0,0,4,2,1,UPI,0,0,0
+19,Female,Telangana,Urban,Prepaid,399,31,5,4.44,164,0,0,1,3,0,1,UPI,0,0,0
+49,Male,Rajasthan,Urban,Prepaid,310,14,10,5.97,309,1,0,3,5,2,0,Net Banking,0,0,0
+40,Male,Kerala,Urban,Postpaid,1149,29,50,43.8,48,0,0,0,3,0,1,UPI,0,1,0
+39,Female,Gujarat,Rural,Postpaid,666,51,20,16.82,624,0,0,1,5,1,3,Auto-Debit,0,0,0
+68,Female,Telangana,Urban,Prepaid,534,49,5,4.32,769,0,0,0,4,3,0,UPI,1,0,0
+42,Male,Maharashtra,Semi-Urban,Postpaid,365,43,5,3.46,400,0,0,1,3,1,3,Net Banking,0,0,0
+39,Female,Delhi,Rural,Prepaid,351,5,3,1.82,806,0,0,0,1,4,0,UPI,0,0,1
+39,Male,Tamil Nadu,Urban,Prepaid,508,42,10,4.78,141,0,0,0,3,0,0,Net Banking,0,0,0
+66,Female,Odisha,Rural,Postpaid,474,7,3,2.88,792,0,1,1,3,1,0,UPI,1,0,0
+69,Male,Rajasthan,Urban,Prepaid,100,42,3,2.36,705,0,0,0,2,1,0,UPI,0,0,0
+59,Female,Tamil Nadu,Rural,Prepaid,496,36,5,3.28,899,0,0,1,1,2,2,Cash,0,0,0
+23,Female,West Bengal,Urban,Prepaid,206,27,3,3.17,709,0,0,0,3,3,3,UPI,0,1,0
+32,Female,Telangana,Semi-Urban,Postpaid,413,58,10,3.38,250,0,0,0,4,2,2,Net Banking,0,0,0
+60,Male,Bihar,Semi-Urban,Postpaid,410,46,10,9.8,333,0,0,1,5,3,4,Net Banking,1,0,0
+54,Male,West Bengal,Urban,Postpaid,1060,66,5,5.49,732,0,1,1,2,0,0,Cash,0,0,0
+50,Male,Andhra Pradesh,Semi-Urban,Postpaid,738,25,5,5.05,354,0,0,0,3,1,0,Auto-Debit,1,1,1
+25,Male,Odisha,Semi-Urban,Prepaid,142,27,50,47.42,466,0,0,0,3,2,0,Auto-Debit,1,0,0
+61,Male,Madhya Pradesh,Urban,Prepaid,515,1,1,0.6,467,1,0,0,4,1,2,Net Banking,1,0,0
+61,Female,Gujarat,Urban,Prepaid,367,42,10,4.85,199,0,0,0,5,5,0,UPI,0,0,0
+22,Male,Odisha,Semi-Urban,Prepaid,176,52,50,44.39,404,0,0,0,4,0,5,UPI,0,0,0
+56,Male,Delhi,Semi-Urban,Prepaid,314,25,5,2.72,586,0,0,0,5,1,1,Auto-Debit,0,0,0
+21,Female,Punjab,Rural,Postpaid,1049,54,5,2.2,410,0,0,1,4,1,4,Auto-Debit,0,0,0
+23,Female,Punjab,Semi-Urban,Prepaid,196,67,50,46.46,43,0,0,1,4,3,0,UPI,1,0,0
+62,Female,Delhi,Rural,Prepaid,334,6,3,1.65,772,0,1,0,3,4,0,Auto-Debit,1,0,1
+49,Female,Maharashtra,Semi-Urban,Prepaid,380,58,5,5.16,698,0,0,0,5,0,1,Auto-Debit,1,1,1
+69,Male,Andhra Pradesh,Urban,Prepaid,247,70,5,4.86,529,1,0,0,5,0,2,Auto-Debit,0,0,0
+47,Male,Gujarat,Urban,Postpaid,1027,53,3,2.93,675,0,0,1,4,1,0,Auto-Debit,0,0,0
+64,Female,Tamil Nadu,Semi-Urban,Prepaid,402,66,20,18.35,420,0,0,3,5,1,3,Net Banking,0,0,0
+52,Female,Maharashtra,Semi-Urban,Prepaid,582,58,20,20.09,578,1,0,1,1,6,2,Net Banking,1,0,1
+57,Male,Uttar Pradesh,Urban,Postpaid,862,2,10,9.45,594,1,0,2,5,1,0,Auto-Debit,0,0,0
+69,Female,Delhi,Urban,Prepaid,164,22,3,2.35,559,0,0,2,2,0,0,Auto-Debit,0,0,0
+33,Male,Tamil Nadu,Rural,Prepaid,332,37,2,1.07,521,0,0,0,3,1,0,UPI,0,0,0
+30,Male,Punjab,Semi-Urban,Prepaid,555,20,10,10.11,579,1,0,0,1,1,0,UPI,1,0,1
+67,Male,Karnataka,Urban,Prepaid,185,24,2,1.94,728,0,0,1,5,3,1,Net Banking,1,0,0
+59,Female,Kerala,Semi-Urban,Postpaid,801,65,10,6.78,414,0,0,0,5,0,0,Net Banking,1,0,0
+47,Female,Madhya Pradesh,Urban,Postpaid,574,65,5,1.66,225,1,0,1,5,0,1,Net Banking,1,0,0
+36,Male,Punjab,Urban,Prepaid,377,1,10,8.11,784,0,1,2,5,5,1,UPI,0,0,0
+34,Female,Gujarat,Urban,Postpaid,375,3,5,1.7,329,0,0,2,4,0,0,UPI,0,0,0
+36,Male,Bihar,Urban,Prepaid,352,46,5,5.21,844,0,0,0,5,2,0,UPI,0,1,0
+45,Male,West Bengal,Semi-Urban,Prepaid,402,55,3,3.21,576,0,0,1,5,1,0,Auto-Debit,0,1,0
+43,Female,Kerala,Urban,Prepaid,478,64,3,1.35,756,1,0,1,4,1,0,Auto-Debit,1,0,0
+54,Female,Kerala,Rural,Prepaid,228,45,5,4.21,760,0,0,2,2,0,1,Auto-Debit,0,0,1
+43,Female,Karnataka,Rural,Prepaid,182,26,10,3.74,857,1,1,2,4,0,4,UPI,0,0,0
+40,Female,Madhya Pradesh,Urban,Postpaid,839,65,10,8.84,631,0,0,5,5,1,0,Auto-Debit,0,0,0
+26,Female,Telangana,Semi-Urban,Postpaid,1190,24,10,5.78,337,0,1,0,5,0,0,Auto-Debit,0,1,0
+29,Female,Madhya Pradesh,Semi-Urban,Prepaid,144,35,100,84.48,281,0,0,0,5,1,0,UPI,0,0,0
+18,Male,Uttar Pradesh,Rural,Prepaid,485,24,3,1.79,37,0,0,0,5,0,0,Cash,0,0,0
+18,Male,Uttar Pradesh,Urban,Prepaid,281,28,2,0.83,797,1,0,0,5,2,0,Auto-Debit,0,1,0
+64,Male,Rajasthan,Semi-Urban,Prepaid,366,16,3,1.87,237,0,0,3,4,4,1,UPI,0,0,0
+51,Male,Punjab,Semi-Urban,Prepaid,394,59,10,3.9,160,0,0,5,4,0,0,Auto-Debit,0,0,0
+49,Female,Punjab,Urban,Prepaid,420,54,5,3.81,765,0,1,0,3,0,4,Cash,0,0,0
+65,Male,Punjab,Urban,Postpaid,910,16,20,6.66,738,0,0,0,4,3,0,Auto-Debit,0,0,0
+42,Male,Rajasthan,Semi-Urban,Prepaid,176,15,5,3.61,683,0,1,0,4,2,2,Net Banking,1,0,0
+57,Male,Andhra Pradesh,Semi-Urban,Prepaid,370,11,50,50.45,793,0,1,2,5,0,3,Auto-Debit,0,0,0
+62,Female,Maharashtra,Urban,Prepaid,437,65,50,48.51,637,0,1,0,4,1,0,Net Banking,0,0,0
+18,Male,Bihar,Semi-Urban,Prepaid,260,68,2,2.01,55,0,0,0,2,0,0,Auto-Debit,0,0,0
+33,Female,Bihar,Urban,Prepaid,142,43,5,5.19,652,0,0,0,1,0,1,Auto-Debit,0,1,1
+56,Male,Madhya Pradesh,Semi-Urban,Postpaid,593,69,10,3.84,483,0,0,0,4,5,1,Auto-Debit,0,0,0
+22,Male,Karnataka,Urban,Prepaid,232,13,3,1.21,664,0,0,4,4,2,2,Auto-Debit,1,0,0
+39,Female,Gujarat,Rural,Postpaid,937,10,5,3.73,215,0,0,0,3,2,1,Net Banking,1,0,0
+46,Female,Madhya Pradesh,Urban,Prepaid,290,41,10,10.15,513,0,0,0,2,0,0,UPI,0,0,0
+20,Male,Uttar Pradesh,Urban,Prepaid,454,50,3,3.24,709,0,0,0,4,0,2,UPI,0,0,0
+29,Female,Kerala,Urban,Prepaid,376,71,10,3.37,80,0,1,1,2,3,5,Cash,0,1,1
+43,Female,Tamil Nadu,Urban,Postpaid,827,59,10,5.85,34,1,1,1,3,0,1,UPI,0,0,0
+33,Male,Odisha,Semi-Urban,Prepaid,110,39,2,0.94,618,0,0,0,3,1,2,Cash,0,0,0
+68,Female,West Bengal,Urban,Postpaid,718,3,5,4.52,189,0,0,0,4,0,1,Auto-Debit,1,0,0
+54,Female,Rajasthan,Rural,Prepaid,221,7,3,2.44,237,0,0,2,4,1,1,Cash,0,1,0
+39,Female,Delhi,Urban,Postpaid,984,49,10,3.96,286,0,0,0,3,0,1,Auto-Debit,0,0,0
+46,Female,Tamil Nadu,Urban,Prepaid,320,26,3,2.06,234,0,0,1,5,0,1,UPI,1,1,1
+31,Female,Gujarat,Urban,Postpaid,1139,33,20,16.97,796,0,0,0,3,3,0,UPI,1,0,0
+45,Female,Punjab,Urban,Prepaid,149,48,5,4.62,40,0,0,0,3,2,1,UPI,1,1,1
+22,Female,Uttar Pradesh,Urban,Postpaid,738,2,3,0.95,37,0,0,1,2,0,1,UPI,0,1,1
+64,Female,Odisha,Urban,Prepaid,169,71,5,5.06,438,0,0,2,3,2,0,UPI,0,0,0
+66,Female,Telangana,Semi-Urban,Prepaid,578,32,5,3.78,61,0,0,1,1,0,0,Cash,1,0,1
+47,Female,Uttar Pradesh,Urban,Prepaid,146,4,5,4.75,569,0,1,0,1,1,1,Cash,0,0,0
+63,Female,Uttar Pradesh,Semi-Urban,Postpaid,1043,20,5,4.73,747,0,0,1,4,2,1,Cash,0,0,0
+69,Male,Punjab,Semi-Urban,Prepaid,360,36,5,2.26,416,0,0,1,4,0,0,Cash,1,0,0
+22,Female,Delhi,Urban,Postpaid,788,32,2,0.78,257,0,0,1,4,1,2,Net Banking,0,0,0
+29,Female,Rajasthan,Semi-Urban,Prepaid,253,28,2,1.75,669,0,0,1,4,2,2,Cash,1,0,0
+33,Male,Tamil Nadu,Rural,Prepaid,151,1,10,4.25,796,0,0,0,1,4,0,Net Banking,1,0,1
+43,Female,Punjab,Semi-Urban,Prepaid,205,60,5,4.9,504,0,0,1,5,1,0,UPI,1,0,0
+43,Male,Gujarat,Semi-Urban,Postpaid,926,56,5,4.4,753,1,0,1,2,0,3,Net Banking,0,0,0
+65,Male,Rajasthan,Urban,Postpaid,363,35,20,19.47,780,0,0,0,4,0,2,Cash,1,0,0
+38,Female,Gujarat,Semi-Urban,Postpaid,642,30,5,2.7,236,0,0,1,2,1,0,Net Banking,1,0,1
+56,Male,Rajasthan,Semi-Urban,Prepaid,541,54,10,5.53,347,0,0,0,5,0,0,UPI,1,0,0
+53,Female,Delhi,Semi-Urban,Postpaid,651,36,3,2.51,824,0,0,0,4,1,0,Auto-Debit,0,0,0
+50,Female,West Bengal,Rural,Postpaid,457,55,2,0.65,786,0,0,4,2,2,1,Net Banking,0,0,1
+47,Male,Gujarat,Urban,Prepaid,241,58,50,44.06,586,0,0,0,4,0,0,Cash,1,0,0
+54,Male,Punjab,Urban,Postpaid,790,65,5,4.84,646,0,0,0,1,0,0,UPI,0,1,1
+40,Male,Rajasthan,Semi-Urban,Postpaid,957,69,10,6.32,377,1,1,1,4,1,0,Auto-Debit,0,0,0
+27,Female,Bihar,Rural,Postpaid,1154,51,3,2.74,822,0,0,5,4,0,3,UPI,0,0,1
+22,Female,Uttar Pradesh,Urban,Postpaid,762,22,10,4.4,263,0,1,5,3,6,0,UPI,0,0,0
+53,Female,Andhra Pradesh,Urban,Prepaid,121,53,20,11.16,730,1,0,1,3,1,0,UPI,1,0,0
+51,Male,Madhya Pradesh,Urban,Prepaid,279,36,1,1.08,73,0,1,0,1,3,4,UPI,0,0,0
+69,Female,Telangana,Urban,Postpaid,914,68,20,21.78,766,1,0,3,4,4,0,Cash,1,0,1
+48,Male,Uttar Pradesh,Semi-Urban,Prepaid,107,36,5,3.55,171,0,0,1,3,3,0,UPI,0,0,0
+27,Female,Maharashtra,Semi-Urban,Postpaid,1112,52,10,10.47,677,0,1,0,4,0,2,UPI,0,0,0
+36,Male,West Bengal,Urban,Postpaid,765,53,5,3.59,205,1,0,2,5,5,0,Cash,0,0,0
+49,Female,West Bengal,Urban,Postpaid,387,50,20,10.67,683,0,0,0,3,0,2,UPI,1,0,0
+18,Female,Uttar Pradesh,Urban,Postpaid,1182,41,1,0.51,478,0,0,0,5,0,0,Auto-Debit,0,0,0
+22,Female,Telangana,Urban,Prepaid,115,18,3,3.13,621,0,0,2,4,1,0,UPI,0,1,0
+62,Male,Bihar,Semi-Urban,Prepaid,252,22,20,8.76,111,0,0,1,3,0,3,UPI,1,0,0
+21,Female,Tamil Nadu,Rural,Prepaid,503,66,10,7.64,164,0,0,0,3,0,0,Net Banking,1,0,0
+33,Female,Delhi,Rural,Prepaid,426,21,1,0.74,748,0,1,0,4,0,1,Cash,0,0,0
+41,Male,Gujarat,Urban,Prepaid,247,44,5,4.46,885,0,0,1,3,0,0,UPI,0,1,0
+33,Female,Punjab,Rural,Prepaid,475,47,5,3.5,206,0,1,0,1,2,0,Auto-Debit,0,0,1
+19,Female,West Bengal,Semi-Urban,Postpaid,731,39,5,2.59,412,0,1,0,2,0,2,Auto-Debit,0,0,0
+66,Male,Uttar Pradesh,Semi-Urban,Postpaid,639,29,3,1.31,272,1,0,1,4,1,0,Net Banking,0,0,0
+45,Male,Uttar Pradesh,Semi-Urban,Prepaid,426,54,10,7.97,596,0,0,3,4,6,0,Net Banking,1,1,1
+49,Female,Delhi,Urban,Prepaid,204,17,3,2.63,170,0,0,1,4,1,0,UPI,1,0,0
+44,Male,Bihar,Urban,Postpaid,646,60,10,7.56,486,0,0,2,2,2,0,UPI,0,0,0
+37,Female,Delhi,Urban,Prepaid,479,31,20,17.81,469,0,0,2,5,5,2,Cash,0,1,0
+41,Male,Karnataka,Urban,Prepaid,133,49,5,2.07,85,0,0,1,5,0,2,Cash,1,0,0
+29,Female,Bihar,Urban,Prepaid,217,2,3,3.02,556,0,0,0,1,1,1,Auto-Debit,0,0,0
+67,Male,Karnataka,Semi-Urban,Prepaid,112,48,3,2.3,726,1,0,3,1,3,1,Net Banking,1,0,1
+52,Female,Tamil Nadu,Semi-Urban,Prepaid,112,14,5,2.01,855,1,0,0,5,4,0,UPI,0,0,0
+50,Female,Odisha,Semi-Urban,Postpaid,832,59,10,6.7,448,0,0,0,5,2,0,Auto-Debit,0,0,0
+50,Female,Andhra Pradesh,Urban,Prepaid,238,58,5,4.88,117,0,0,0,4,0,1,UPI,1,1,0
+68,Female,Andhra Pradesh,Rural,Prepaid,392,58,10,10.18,638,1,0,2,5,4,0,Auto-Debit,0,0,0
+60,Male,Tamil Nadu,Rural,Prepaid,462,51,5,2.56,685,1,0,0,4,0,0,Auto-Debit,0,0,0
+54,Female,Maharashtra,Semi-Urban,Prepaid,217,2,3,2.61,37,0,1,0,3,1,3,UPI,1,0,0
+29,Male,Odisha,Rural,Postpaid,888,41,1,0.5,506,1,0,1,4,1,0,UPI,1,0,0
+20,Male,Bihar,Semi-Urban,Postpaid,476,16,1,0.5,244,1,0,3,4,1,0,UPI,1,0,0
+18,Male,Tamil Nadu,Rural,Postpaid,642,4,3,2.24,714,1,0,1,5,3,1,UPI,0,0,0
+50,Male,Rajasthan,Urban,Prepaid,108,12,5,4.28,764,1,1,0,3,3,1,Auto-Debit,0,0,0
+57,Female,Delhi,Urban,Postpaid,400,29,20,18.73,581,0,0,0,4,2,0,Net Banking,1,0,0
+27,Female,Telangana,Urban,Postpaid,1057,7,10,5.72,526,0,0,1,4,0,0,UPI,1,0,0
+60,Male,Andhra Pradesh,Urban,Postpaid,928,14,3,0.92,723,0,1,0,3,1,4,UPI,1,0,0
+61,Male,Bihar,Urban,Prepaid,549,12,3,2.05,532,0,0,1,3,2,1,Cash,1,1,0
+46,Female,Punjab,Semi-Urban,Prepaid,544,5,3,0.94,811,0,0,0,5,1,2,UPI,0,0,0
+30,Male,Rajasthan,Semi-Urban,Prepaid,321,32,3,1.12,728,1,0,3,3,5,0,UPI,1,0,1
+29,Male,Gujarat,Semi-Urban,Postpaid,836,43,5,2.81,274,0,1,1,4,3,0,UPI,1,0,0
+48,Male,Odisha,Urban,Prepaid,355,69,5,3.25,507,0,0,0,5,2,0,Net Banking,1,0,0
+63,Female,Uttar Pradesh,Rural,Prepaid,366,45,3,1.57,338,0,0,3,3,0,0,Net Banking,0,0,0
+19,Female,Tamil Nadu,Semi-Urban,Postpaid,596,9,2,1.53,260,0,0,0,5,2,0,Auto-Debit,1,0,0
+68,Male,Telangana,Urban,Postpaid,433,49,1,0.5,412,0,0,0,4,4,0,UPI,0,0,0
+67,Male,Uttar Pradesh,Semi-Urban,Postpaid,630,33,3,1.25,184,0,0,2,4,1,0,Auto-Debit,0,0,0
+52,Female,Bihar,Urban,Prepaid,495,18,10,8.56,204,0,0,0,3,3,1,Cash,1,1,0
+40,Female,West Bengal,Urban,Postpaid,849,9,3,1.24,877,0,0,0,5,0,2,UPI,1,0,0
+34,Male,Maharashtra,Rural,Prepaid,204,62,5,4.06,144,0,0,0,3,1,0,Net Banking,0,0,0
+43,Female,West Bengal,Urban,Prepaid,183,57,5,1.72,419,0,0,0,3,2,0,UPI,1,0,0
+25,Male,Maharashtra,Semi-Urban,Prepaid,312,29,20,12.52,340,0,0,0,3,2,0,UPI,0,0,0
+46,Male,Karnataka,Rural,Prepaid,219,25,20,8.84,329,0,0,2,3,4,0,Cash,0,0,0
+43,Female,Odisha,Semi-Urban,Prepaid,230,15,10,3.88,47,0,0,1,4,0,0,Net Banking,0,0,0
+27,Male,Uttar Pradesh,Urban,Postpaid,802,6,1,0.75,813,0,0,0,5,0,0,Auto-Debit,1,0,0
+43,Female,Maharashtra,Urban,Prepaid,295,42,5,5.21,41,0,0,0,5,2,3,UPI,0,0,0
+51,Male,Kerala,Urban,Postpaid,654,29,10,3.44,433,0,0,4,3,0,2,UPI,0,0,0
+68,Male,Andhra Pradesh,Semi-Urban,Prepaid,228,4,1,0.64,842,1,0,5,3,1,1,UPI,1,0,1
+58,Female,Kerala,Urban,Prepaid,110,57,5,4.33,733,0,0,1,4,0,2,UPI,0,1,0
+24,Male,Odisha,Urban,Prepaid,179,49,20,13.4,261,0,0,2,1,0,1,UPI,1,0,1
+21,Female,Kerala,Rural,Prepaid,428,44,5,4.73,634,0,0,2,5,2,2,UPI,1,0,0
+67,Male,Madhya Pradesh,Semi-Urban,Prepaid,452,14,1,0.5,759,0,1,0,5,2,1,Auto-Debit,1,1,0
+62,Male,Andhra Pradesh,Urban,Prepaid,360,3,1,1.07,307,0,0,0,5,0,0,UPI,0,0,0
+28,Male,Rajasthan,Semi-Urban,Prepaid,490,62,5,3.04,382,1,0,0,3,0,1,Auto-Debit,0,0,0
+46,Female,Telangana,Semi-Urban,Prepaid,223,64,3,1.72,332,0,1,2,4,0,0,Auto-Debit,1,0,0
+53,Male,Maharashtra,Urban,Prepaid,405,45,10,10,570,0,0,2,1,1,1,Net Banking,0,0,0
+42,Female,Maharashtra,Urban,Postpaid,334,58,10,7.51,499,0,0,1,3,0,3,Auto-Debit,0,0,0
+38,Male,Rajasthan,Rural,Prepaid,545,20,3,2.14,842,1,0,0,4,1,1,UPI,0,0,0
+53,Female,Uttar Pradesh,Semi-Urban,Postpaid,300,58,20,17.63,106,0,0,1,5,2,0,UPI,0,0,0
+27,Male,Uttar Pradesh,Semi-Urban,Postpaid,452,57,5,3.82,550,0,0,2,5,2,0,UPI,1,0,0
+54,Female,Odisha,Urban,Postpaid,728,68,2,0.86,53,0,0,3,5,0,2,UPI,1,0,0
+26,Female,Kerala,Urban,Postpaid,807,52,10,8.39,44,0,0,0,5,2,4,UPI,0,0,0
+41,Female,Odisha,Urban,Prepaid,100,37,10,4.07,705,1,0,1,1,4,0,Auto-Debit,0,0,0
+52,Female,Rajasthan,Urban,Postpaid,790,8,10,9.45,554,0,0,0,4,0,2,Net Banking,1,0,0
+66,Female,Odisha,Urban,Postpaid,781,44,20,21.84,376,0,1,2,1,0,2,Cash,0,1,1
+52,Female,Bihar,Urban,Prepaid,237,5,10,6.02,201,1,0,1,3,1,0,Auto-Debit,1,1,1
+65,Male,Andhra Pradesh,Rural,Prepaid,222,69,20,13.12,898,1,0,0,4,0,2,UPI,0,0,0
+53,Male,Kerala,Rural,Prepaid,407,31,5,1.69,356,0,0,2,4,2,0,UPI,1,0,0
+35,Female,West Bengal,Semi-Urban,Postpaid,1022,45,10,3.11,741,1,0,0,4,3,1,Auto-Debit,1,0,0
+66,Female,Madhya Pradesh,Rural,Postpaid,324,9,100,103.71,514,0,0,2,1,1,0,UPI,0,0,1
+56,Female,Punjab,Urban,Prepaid,567,32,10,4.03,518,0,0,0,2,2,1,UPI,0,0,0
+49,Male,Gujarat,Rural,Prepaid,310,33,2,1.31,491,1,0,1,2,2,1,Auto-Debit,0,0,1
+41,Male,Madhya Pradesh,Urban,Prepaid,210,67,5,4.76,407,0,0,3,2,0,0,Cash,1,0,1
+40,Male,Uttar Pradesh,Rural,Prepaid,106,30,5,5.06,617,0,0,0,2,0,2,UPI,0,0,1
+49,Female,Telangana,Rural,Postpaid,940,29,3,2.15,193,0,0,1,4,4,2,UPI,0,0,0
+54,Male,Punjab,Semi-Urban,Prepaid,575,3,50,37.6,401,0,1,1,5,4,2,Net Banking,0,0,0
+29,Male,Karnataka,Rural,Prepaid,460,57,3,2.51,602,0,1,0,3,3,0,Auto-Debit,1,0,0
+66,Male,Tamil Nadu,Semi-Urban,Prepaid,558,30,3,3.21,453,0,0,1,4,4,0,UPI,1,0,0
+30,Male,Telangana,Urban,Postpaid,1047,9,50,39.11,786,0,0,2,3,0,0,UPI,0,0,0
+40,Female,Kerala,Urban,Prepaid,112,26,5,3.74,506,0,0,3,5,0,3,UPI,0,0,0
+42,Male,Maharashtra,Semi-Urban,Postpaid,738,2,2,0.62,411,0,0,3,3,1,0,UPI,0,0,0
+52,Female,Bihar,Urban,Prepaid,536,62,5,1.82,184,1,1,1,5,0,5,Auto-Debit,0,0,0
+58,Male,Bihar,Semi-Urban,Prepaid,340,3,10,7.62,286,0,0,2,5,3,2,Auto-Debit,0,0,0
+47,Male,Rajasthan,Rural,Prepaid,567,46,2,2.1,785,0,0,2,5,6,1,Auto-Debit,0,0,0
+34,Male,Telangana,Urban,Prepaid,440,68,100,99.34,703,0,1,1,1,3,1,Cash,1,0,1
+66,Male,Rajasthan,Semi-Urban,Prepaid,247,25,5,5.43,97,0,1,0,4,1,1,Auto-Debit,0,0,0
+37,Male,Maharashtra,Rural,Postpaid,945,51,5,3.61,373,1,0,0,2,0,1,Auto-Debit,1,0,1
+65,Male,Kerala,Rural,Postpaid,320,13,5,4.65,306,0,0,2,1,0,0,Cash,0,0,1
+42,Female,Telangana,Rural,Postpaid,933,44,10,9.72,702,0,0,1,1,1,2,UPI,0,0,1
+39,Male,Tamil Nadu,Semi-Urban,Prepaid,265,35,3,2.46,420,0,0,2,5,2,1,UPI,0,0,0
+30,Female,Gujarat,Rural,Postpaid,1163,55,3,1.71,478,0,0,0,5,1,2,Auto-Debit,1,0,0
+36,Female,Tamil Nadu,Semi-Urban,Prepaid,314,9,5,3.38,288,0,0,4,3,4,2,UPI,0,0,0
+66,Female,Punjab,Urban,Prepaid,441,2,20,19.73,336,1,0,0,4,3,0,Auto-Debit,1,0,0
+53,Male,Tamil Nadu,Semi-Urban,Prepaid,233,61,1,0.54,876,0,0,1,5,0,0,UPI,0,0,0
+29,Male,Bihar,Semi-Urban,Prepaid,491,41,10,10.39,124,0,0,0,4,0,2,Cash,0,0,0
+58,Male,Punjab,Urban,Postpaid,586,44,20,9.68,493,0,0,0,3,2,0,UPI,1,1,1
+36,Male,Tamil Nadu,Semi-Urban,Prepaid,508,64,3,2.7,275,0,0,2,4,0,1,Auto-Debit,0,1,0
+29,Female,Gujarat,Semi-Urban,Prepaid,520,31,1,0.8,762,0,0,4,4,3,0,UPI,0,0,0
+26,Male,Telangana,Urban,Postpaid,1055,47,3,2.7,664,0,0,0,4,1,0,UPI,0,0,0
+24,Male,Gujarat,Semi-Urban,Prepaid,344,2,5,3.25,216,0,0,0,4,0,0,UPI,1,0,0
+45,Female,Uttar Pradesh,Semi-Urban,Prepaid,287,69,2,2.09,803,0,0,0,3,1,2,UPI,1,0,0
+31,Female,Maharashtra,Semi-Urban,Prepaid,142,58,5,4.03,814,0,0,0,3,1,1,UPI,0,0,0
+48,Female,Gujarat,Urban,Postpaid,680,44,5,2.65,402,0,0,0,3,3,0,UPI,0,0,0
+69,Male,Punjab,Urban,Postpaid,628,56,5,4.05,601,0,0,2,1,0,3,Cash,1,0,1
+36,Male,Gujarat,Urban,Prepaid,428,43,3,1.59,435,0,0,4,4,4,0,Net Banking,1,0,1
+64,Male,Uttar Pradesh,Rural,Prepaid,473,34,5,2.67,437,1,0,0,2,2,0,Auto-Debit,0,0,0
+33,Male,Rajasthan,Urban,Prepaid,544,30,10,6.2,154,1,0,1,5,2,1,Net Banking,1,0,0
+22,Male,Punjab,Semi-Urban,Postpaid,490,71,50,49.1,366,0,0,0,3,0,2,Auto-Debit,0,0,0
+52,Male,Uttar Pradesh,Urban,Prepaid,488,70,20,14,370,0,0,0,4,2,0,Net Banking,0,0,0
+29,Male,Bihar,Urban,Prepaid,243,55,5,4.22,592,0,0,0,5,1,4,Auto-Debit,0,0,0
+42,Male,West Bengal,Rural,Prepaid,149,67,5,3.07,207,0,1,1,5,1,3,UPI,0,0,0
+69,Male,West Bengal,Semi-Urban,Prepaid,340,13,3,1.53,680,1,0,0,5,3,0,Net Banking,0,1,0
+38,Female,Karnataka,Urban,Prepaid,392,3,2,2.13,868,0,0,0,4,1,0,Auto-Debit,1,0,0
+53,Female,Tamil Nadu,Urban,Postpaid,687,26,2,1.57,199,0,0,0,2,3,2,Net Banking,0,1,1
+40,Female,Maharashtra,Urban,Prepaid,149,57,10,10.47,68,0,0,0,5,0,0,UPI,0,0,0
+33,Male,Delhi,Semi-Urban,Prepaid,364,24,3,1.39,98,0,0,0,5,3,0,UPI,0,0,0
+56,Male,Madhya Pradesh,Semi-Urban,Postpaid,442,53,3,1.25,265,0,0,3,5,0,2,UPI,1,0,0
+62,Male,Uttar Pradesh,Urban,Postpaid,910,70,100,98.47,589,1,0,2,4,3,0,Cash,1,0,0
+59,Female,Rajasthan,Urban,Prepaid,503,43,3,2.53,410,0,0,3,4,5,0,Auto-Debit,0,0,0
+56,Female,Madhya Pradesh,Urban,Prepaid,346,60,2,0.9,86,0,0,0,1,0,0,UPI,0,0,0
+31,Male,Rajasthan,Rural,Prepaid,168,58,2,1.03,306,0,1,0,4,1,1,Net Banking,0,0,0
+48,Female,Bihar,Rural,Postpaid,546,49,5,4.7,879,1,0,0,2,2,1,Cash,0,0,0
+22,Male,Andhra Pradesh,Urban,Prepaid,155,42,10,6.63,128,0,0,0,3,0,0,Net Banking,0,0,0
+52,Female,Andhra Pradesh,Semi-Urban,Postpaid,1087,66,5,4.18,556,0,0,2,4,1,0,UPI,0,0,0
+40,Female,Andhra Pradesh,Urban,Postpaid,378,11,5,2.77,354,0,0,0,4,1,1,Cash,1,0,0
+46,Female,Madhya Pradesh,Urban,Prepaid,570,18,10,6.05,490,1,0,0,1,3,3,Net Banking,0,0,0
+60,Female,Odisha,Semi-Urban,Prepaid,387,52,20,21.85,208,1,0,1,5,3,3,Net Banking,0,0,0
+28,Female,Uttar Pradesh,Rural,Prepaid,541,46,50,24.9,873,0,0,0,5,2,0,Auto-Debit,0,0,0
+35,Male,Delhi,Rural,Prepaid,116,44,20,14.1,603,0,0,5,4,2,1,UPI,0,0,0
+64,Female,Madhya Pradesh,Semi-Urban,Prepaid,538,22,5,4.88,148,0,0,0,4,2,2,UPI,0,0,0
+29,Male,Uttar Pradesh,Urban,Postpaid,1071,53,3,1.47,498,0,0,1,5,1,2,UPI,0,0,0
+26,Female,Gujarat,Semi-Urban,Postpaid,920,59,2,1.26,578,0,0,0,2,1,1,UPI,1,0,1
+27,Female,Bihar,Urban,Prepaid,342,30,2,1.58,675,0,0,5,4,1,0,Auto-Debit,0,0,0
+61,Female,Delhi,Semi-Urban,Postpaid,488,8,10,6.85,484,0,1,0,2,4,1,UPI,0,0,0
+34,Male,Andhra Pradesh,Urban,Prepaid,558,57,20,13.35,55,0,0,1,3,2,0,Auto-Debit,0,0,0
+55,Female,Punjab,Semi-Urban,Prepaid,402,20,5,2.95,519,0,0,0,4,1,0,Auto-Debit,1,0,0
+24,Male,Bihar,Urban,Prepaid,396,25,2,1.54,37,0,0,2,4,2,1,UPI,0,0,0
+63,Female,Rajasthan,Urban,Postpaid,366,19,5,4,545,0,0,0,1,1,5,Net Banking,1,0,1
+30,Male,Andhra Pradesh,Rural,Postpaid,795,5,50,41.13,562,0,0,0,3,2,0,UPI,0,0,0
+57,Male,West Bengal,Urban,Postpaid,490,27,5,1.78,178,0,0,3,4,1,1,Auto-Debit,0,0,0
+59,Male,Tamil Nadu,Semi-Urban,Prepaid,278,40,20,16.1,517,0,1,5,4,0,0,Auto-Debit,1,1,1
+26,Male,West Bengal,Urban,Prepaid,524,26,20,21.25,54,1,0,0,4,2,3,UPI,0,0,0
+67,Female,Andhra Pradesh,Urban,Prepaid,130,27,50,36.64,684,0,0,2,3,2,1,Net Banking,0,0,0
+44,Male,Bihar,Urban,Prepaid,332,62,10,8.72,786,0,0,0,4,1,0,UPI,0,0,0
+19,Female,Delhi,Urban,Postpaid,566,50,10,7.45,584,0,0,2,2,1,0,Auto-Debit,1,0,1
+22,Male,Punjab,Rural,Postpaid,910,42,3,2.95,454,0,0,1,2,2,0,UPI,0,0,1
+46,Male,Rajasthan,Urban,Postpaid,784,29,2,2.09,322,0,0,1,4,2,0,Net Banking,0,0,0
+54,Female,Odisha,Rural,Prepaid,377,39,5,2.24,214,0,0,3,4,4,0,Auto-Debit,0,1,1
+55,Female,Punjab,Semi-Urban,Prepaid,324,60,2,1.3,583,0,0,2,2,1,1,UPI,0,0,0
+36,Male,Madhya Pradesh,Urban,Prepaid,155,41,50,30.7,460,0,1,0,2,5,0,UPI,0,0,1
+25,Female,Telangana,Semi-Urban,Prepaid,278,33,3,1.87,633,0,0,2,4,2,1,Auto-Debit,0,0,0
+65,Female,Rajasthan,Semi-Urban,Prepaid,330,16,20,8.01,346,0,1,0,3,3,0,Auto-Debit,0,0,0
+62,Male,Andhra Pradesh,Semi-Urban,Postpaid,567,23,5,4.75,427,0,0,2,3,2,1,UPI,0,0,0
+18,Female,Madhya Pradesh,Urban,Postpaid,848,7,3,0.99,353,0,0,1,3,0,0,Auto-Debit,0,0,0
+39,Female,Telangana,Urban,Prepaid,575,26,50,36.13,594,1,0,0,2,0,0,Auto-Debit,0,0,0
+69,Female,Uttar Pradesh,Rural,Prepaid,385,12,5,4.15,625,0,0,1,1,2,0,UPI,1,0,1
+34,Male,Delhi,Rural,Prepaid,162,5,5,2.33,575,0,0,1,5,1,0,Auto-Debit,1,0,0
+24,Female,Kerala,Rural,Prepaid,553,69,2,2.05,105,0,0,1,4,2,2,UPI,1,1,1
+42,Male,Uttar Pradesh,Urban,Postpaid,498,49,10,9.71,894,1,0,0,4,1,1,Auto-Debit,0,0,0
+62,Male,Karnataka,Semi-Urban,Prepaid,387,26,3,2.03,738,0,0,0,4,0,1,UPI,1,0,0
+21,Male,Punjab,Semi-Urban,Prepaid,311,5,5,3.14,515,0,0,2,4,0,0,Net Banking,1,0,0
+53,Male,Kerala,Semi-Urban,Prepaid,356,22,5,2.45,827,0,0,0,5,2,0,UPI,0,0,0
+23,Female,Madhya Pradesh,Urban,Postpaid,871,13,10,8.84,117,0,0,0,4,0,0,UPI,0,1,0
+48,Female,Gujarat,Semi-Urban,Prepaid,273,28,10,4.05,776,1,0,1,3,2,1,Auto-Debit,0,0,0
+36,Female,Uttar Pradesh,Urban,Prepaid,515,33,5,4.22,261,0,0,0,4,1,0,UPI,1,0,0
+61,Male,Karnataka,Urban,Prepaid,327,23,3,2.92,36,1,0,1,3,2,0,Auto-Debit,0,0,0
+56,Male,Maharashtra,Rural,Postpaid,1131,18,20,9.66,833,0,0,1,4,0,0,Auto-Debit,0,0,0
+44,Male,Kerala,Urban,Postpaid,786,30,3,2.98,579,0,0,1,4,0,0,UPI,0,0,0
+27,Female,West Bengal,Urban,Prepaid,389,26,5,1.63,81,0,0,0,5,2,0,Cash,1,0,0
+43,Male,Rajasthan,Urban,Postpaid,450,16,5,5.15,684,0,0,0,4,1,0,UPI,0,0,0
+36,Female,Odisha,Rural,Postpaid,968,39,20,7.89,425,1,1,0,2,0,0,Auto-Debit,1,0,1
+56,Female,Odisha,Semi-Urban,Postpaid,505,33,5,4.08,250,0,1,2,1,4,0,Net Banking,1,0,1
+20,Male,Karnataka,Urban,Postpaid,478,26,5,2.5,457,0,0,0,3,0,0,Auto-Debit,0,1,0
+62,Female,Delhi,Rural,Postpaid,496,48,10,9.69,781,1,1,4,1,1,1,Net Banking,0,1,1
+30,Male,Kerala,Rural,Prepaid,352,65,10,7.1,172,0,0,1,3,0,0,UPI,0,0,0
+67,Female,Uttar Pradesh,Urban,Postpaid,388,38,2,0.82,890,0,0,3,3,1,0,UPI,1,1,1
+45,Female,Delhi,Semi-Urban,Prepaid,170,2,5,3.78,392,0,0,0,3,1,0,UPI,1,0,0
+37,Male,Odisha,Semi-Urban,Postpaid,733,6,10,6.26,411,0,0,0,5,0,0,Cash,1,0,0
+45,Male,West Bengal,Semi-Urban,Prepaid,128,46,100,82.92,590,0,0,3,3,2,0,Net Banking,0,1,1
+25,Female,Gujarat,Urban,Postpaid,1047,50,10,10.06,306,0,0,0,3,1,2,UPI,0,0,0
+58,Female,Punjab,Rural,Postpaid,482,38,5,3.14,300,0,1,0,2,2,2,UPI,0,0,1
+56,Male,Punjab,Semi-Urban,Prepaid,492,18,3,1.6,43,0,0,0,4,0,0,UPI,0,1,0
+18,Female,Andhra Pradesh,Urban,Postpaid,792,27,20,6.23,327,0,0,4,2,1,2,UPI,1,0,1
+20,Female,Delhi,Urban,Prepaid,534,41,20,15.2,493,1,0,1,4,0,0,Net Banking,0,0,0
+30,Female,Bihar,Urban,Postpaid,964,17,3,1.87,556,0,0,1,2,2,0,Auto-Debit,0,0,0
+45,Male,Madhya Pradesh,Urban,Prepaid,237,62,3,1.8,263,0,0,2,4,2,5,UPI,0,0,0
+66,Female,Gujarat,Semi-Urban,Prepaid,292,29,10,4.46,604,0,0,0,5,3,2,Cash,0,0,0
+42,Female,Punjab,Urban,Postpaid,1170,58,3,1.93,737,0,1,2,1,1,5,Cash,0,0,0
+50,Male,Gujarat,Urban,Prepaid,316,70,3,3.26,56,0,0,0,3,3,0,Auto-Debit,0,0,0
+55,Male,Karnataka,Semi-Urban,Postpaid,405,22,3,1.61,500,0,0,2,4,2,0,Auto-Debit,1,0,0
+23,Female,Gujarat,Urban,Prepaid,259,6,3,2.34,122,1,0,0,4,0,0,Cash,0,0,0
+61,Male,Tamil Nadu,Rural,Prepaid,529,26,5,4.61,646,0,0,0,4,0,1,UPI,0,0,0
+62,Female,West Bengal,Urban,Prepaid,111,39,10,8.99,338,0,1,1,4,1,0,UPI,0,0,0
+49,Male,Punjab,Urban,Prepaid,394,12,3,1.69,81,0,0,0,4,2,2,Auto-Debit,1,0,0
+62,Male,Gujarat,Urban,Prepaid,187,14,3,2.37,348,0,0,1,4,0,0,Net Banking,0,0,0
+64,Female,Delhi,Urban,Prepaid,422,22,3,2.99,210,0,0,0,3,2,0,Auto-Debit,1,1,1
+38,Male,Maharashtra,Urban,Prepaid,140,51,5,1.56,598,1,0,0,2,1,1,Auto-Debit,0,0,0
+33,Male,Tamil Nadu,Semi-Urban,Prepaid,501,23,3,1.95,149,0,0,1,4,1,1,Auto-Debit,0,1,0
+38,Male,Tamil Nadu,Rural,Postpaid,1151,48,5,2.4,849,1,0,1,5,0,0,Cash,0,0,0
+28,Female,Madhya Pradesh,Urban,Postpaid,491,71,10,6.11,72,0,0,0,5,1,5,Net Banking,0,0,0
+54,Male,Gujarat,Semi-Urban,Prepaid,448,50,1,0.63,676,0,0,1,5,0,0,Net Banking,1,0,0
+53,Male,Andhra Pradesh,Semi-Urban,Postpaid,1025,13,1,0.9,289,0,0,0,4,0,0,UPI,0,0,0
+52,Female,Madhya Pradesh,Rural,Prepaid,540,10,2,0.75,226,0,0,0,4,2,2,Cash,0,0,0
+36,Male,Telangana,Urban,Postpaid,766,55,5,3.55,674,0,0,0,4,0,5,Net Banking,0,0,0
+37,Female,Madhya Pradesh,Urban,Postpaid,1193,9,20,15.03,284,0,0,4,3,0,2,Net Banking,1,0,0
+35,Male,Maharashtra,Urban,Postpaid,666,52,1,0.7,761,0,1,1,4,0,2,Cash,1,0,0
+64,Female,Karnataka,Semi-Urban,Prepaid,306,2,50,44.27,365,0,0,0,3,1,1,UPI,0,1,1
+58,Male,Gujarat,Rural,Postpaid,443,25,2,1.21,582,0,0,1,3,0,3,UPI,0,0,0
+66,Female,Uttar Pradesh,Urban,Prepaid,238,13,20,21.12,531,1,0,2,4,0,0,Cash,1,1,0
+31,Male,Odisha,Urban,Postpaid,515,51,5,3.43,284,0,0,0,4,1,1,Net Banking,1,0,0
+32,Male,Punjab,Rural,Prepaid,132,58,10,7.57,543,0,0,2,3,1,1,UPI,0,0,0
+48,Male,Madhya Pradesh,Rural,Postpaid,623,34,5,4.8,736,0,0,0,3,6,0,Auto-Debit,0,0,0
+18,Male,West Bengal,Rural,Postpaid,314,35,5,2.6,271,0,0,2,5,1,0,UPI,1,1,1
+20,Male,Rajasthan,Semi-Urban,Postpaid,516,3,20,7.2,178,0,0,1,4,1,0,UPI,0,0,0
+33,Male,West Bengal,Urban,Prepaid,155,59,10,8.66,739,0,0,0,4,1,1,Auto-Debit,0,0,0
+40,Female,Maharashtra,Semi-Urban,Postpaid,846,70,5,3.43,328,0,1,0,3,0,0,Net Banking,1,0,0
+28,Male,Maharashtra,Semi-Urban,Prepaid,103,48,2,2.03,786,0,0,5,3,3,2,UPI,0,0,0
+29,Male,Delhi,Urban,Postpaid,569,64,2,2.17,879,0,0,2,1,1,0,UPI,1,0,1
+27,Female,Telangana,Semi-Urban,Prepaid,512,19,20,12.39,649,0,1,1,4,0,0,UPI,0,0,0
+49,Female,Telangana,Semi-Urban,Prepaid,280,67,5,3.16,482,0,0,0,4,3,2,UPI,1,0,0
+33,Male,Karnataka,Urban,Prepaid,111,5,5,3.13,422,0,0,0,3,0,1,Auto-Debit,0,0,0
+25,Male,Andhra Pradesh,Semi-Urban,Prepaid,437,67,10,5.6,241,0,0,0,3,6,0,UPI,1,1,1
+55,Male,Punjab,Semi-Urban,Prepaid,383,11,20,18.51,697,0,0,0,1,3,0,Auto-Debit,0,0,0
+29,Female,Kerala,Rural,Prepaid,357,68,10,9.07,567,0,0,1,4,1,1,Auto-Debit,0,0,0
+41,Female,Madhya Pradesh,Urban,Prepaid,188,69,10,6.83,623,0,0,3,1,0,5,Auto-Debit,0,1,1
+45,Male,West Bengal,Urban,Postpaid,443,1,10,3.36,624,0,0,1,4,0,3,Auto-Debit,1,0,1
+25,Female,Rajasthan,Semi-Urban,Postpaid,410,63,5,2.74,160,0,0,0,4,0,1,UPI,0,0,0
+45,Female,Maharashtra,Urban,Prepaid,284,29,3,1.6,358,0,0,1,5,0,0,UPI,0,1,0
+53,Female,Maharashtra,Semi-Urban,Prepaid,348,12,20,18.98,641,0,0,4,4,1,0,Cash,0,0,0
+43,Female,Karnataka,Semi-Urban,Prepaid,353,41,5,1.85,285,0,0,2,3,5,0,UPI,0,0,0
+25,Male,Rajasthan,Urban,Prepaid,174,2,50,47.23,508,0,0,1,4,1,0,Net Banking,0,0,0
+67,Male,Bihar,Semi-Urban,Postpaid,1031,37,2,1.67,590,0,0,4,4,2,0,UPI,1,0,0
+45,Male,Rajasthan,Semi-Urban,Postpaid,891,45,2,1.77,92,0,0,2,2,2,0,Net Banking,0,0,0
+45,Male,Karnataka,Urban,Prepaid,206,48,50,32.29,340,1,0,0,4,3,1,UPI,0,0,0
+54,Male,Maharashtra,Rural,Prepaid,254,24,10,8.44,436,0,0,0,5,0,0,UPI,1,0,0
+58,Female,Punjab,Rural,Prepaid,180,22,5,3.94,831,0,0,4,3,1,1,Auto-Debit,1,1,1
+53,Male,Gujarat,Semi-Urban,Postpaid,572,11,10,9.15,134,0,0,1,4,3,3,UPI,1,0,0
+44,Male,Gujarat,Semi-Urban,Postpaid,1002,58,10,6.57,646,0,0,0,5,3,1,UPI,0,0,0
+34,Male,Karnataka,Semi-Urban,Prepaid,568,46,5,3.39,866,0,0,1,4,4,1,UPI,0,0,0
+26,Female,Rajasthan,Rural,Prepaid,558,29,2,1.63,44,0,0,1,4,2,1,Net Banking,0,1,0
+50,Male,Madhya Pradesh,Semi-Urban,Postpaid,454,35,20,7.73,716,0,0,5,3,0,0,Auto-Debit,0,1,1
+37,Male,Karnataka,Semi-Urban,Postpaid,821,15,20,12.98,288,1,0,0,3,1,0,Auto-Debit,1,1,1
+30,Male,Punjab,Rural,Prepaid,583,60,3,3.23,752,1,0,1,4,0,0,UPI,0,1,1
+45,Male,Karnataka,Urban,Prepaid,489,42,20,6.6,441,0,0,3,4,2,0,Net Banking,0,0,0
+65,Female,Tamil Nadu,Rural,Prepaid,380,43,20,11.06,288,1,0,0,5,1,1,UPI,1,0,0
+46,Female,Telangana,Urban,Prepaid,572,49,5,2.76,643,0,0,0,3,2,3,UPI,0,0,0
+30,Male,West Bengal,Urban,Prepaid,186,64,10,8.07,289,0,1,4,4,4,4,Auto-Debit,1,0,1
+63,Female,Rajasthan,Urban,Prepaid,302,32,5,1.92,885,0,0,1,3,2,0,UPI,0,0,0
+52,Female,Andhra Pradesh,Rural,Prepaid,114,64,3,2.41,700,0,0,1,2,0,5,Net Banking,0,0,1
+23,Female,Delhi,Rural,Prepaid,249,2,10,3.76,74,0,0,1,3,0,0,Net Banking,0,0,0
+35,Male,Odisha,Semi-Urban,Postpaid,1148,24,20,7.52,842,1,0,0,3,3,2,Auto-Debit,0,1,0
+68,Male,Delhi,Semi-Urban,Prepaid,352,66,10,8.83,792,0,0,4,3,0,0,UPI,0,0,0
+22,Male,Rajasthan,Semi-Urban,Prepaid,286,38,5,2.8,360,0,0,0,3,0,0,UPI,0,0,0
+64,Female,Andhra Pradesh,Rural,Prepaid,427,31,3,3.25,194,1,0,0,3,0,0,Auto-Debit,0,0,0
+42,Male,Kerala,Semi-Urban,Prepaid,130,26,2,0.66,222,0,0,0,5,1,2,UPI,0,0,0
+19,Male,Punjab,Urban,Postpaid,682,29,5,3.28,550,0,0,0,4,0,0,UPI,0,0,0
+27,Male,Tamil Nadu,Urban,Prepaid,583,67,1,0.5,430,0,0,2,1,4,0,Auto-Debit,0,0,1
+47,Female,Tamil Nadu,Semi-Urban,Prepaid,495,25,5,2.91,403,0,1,2,5,5,3,Net Banking,0,0,0
+67,Male,Odisha,Semi-Urban,Postpaid,781,48,5,5.49,94,0,0,4,4,5,3,Auto-Debit,0,0,1
+62,Female,Maharashtra,Urban,Prepaid,557,65,10,10.11,416,0,1,0,5,0,0,Cash,0,0,0
+22,Female,West Bengal,Urban,Postpaid,1198,53,3,1.02,524,0,0,2,3,5,1,Net Banking,0,0,0
+50,Male,Gujarat,Rural,Prepaid,406,67,5,3.75,823,1,1,1,4,6,0,Net Banking,0,0,0
+18,Female,Uttar Pradesh,Urban,Prepaid,431,18,5,4.09,722,1,0,2,5,5,0,Auto-Debit,0,0,0
+35,Male,Punjab,Semi-Urban,Prepaid,267,9,1,0.5,444,0,0,2,3,2,0,Cash,0,0,0
+49,Female,Odisha,Rural,Prepaid,279,38,2,0.83,823,0,0,0,5,2,0,Net Banking,1,0,0
+64,Male,Uttar Pradesh,Urban,Postpaid,901,21,3,3.07,820,0,1,0,5,0,0,Auto-Debit,0,0,0
+66,Female,Bihar,Urban,Postpaid,987,65,20,21.5,59,1,0,0,5,3,1,UPI,0,0,0
+28,Female,Uttar Pradesh,Semi-Urban,Prepaid,241,21,2,2.19,295,0,0,1,3,0,0,Auto-Debit,1,1,1
+38,Female,Rajasthan,Rural,Prepaid,460,27,10,9.32,357,0,1,4,3,0,1,Cash,1,1,1
+43,Female,Odisha,Semi-Urban,Postpaid,483,70,100,83.08,521,0,0,0,3,6,1,Net Banking,1,0,0
+42,Male,Delhi,Rural,Postpaid,1170,44,10,5.77,246,1,0,0,5,1,0,Cash,0,0,0
+39,Female,Delhi,Urban,Prepaid,361,28,3,1.31,349,0,1,0,3,0,0,Net Banking,0,0,0
+44,Female,Gujarat,Semi-Urban,Prepaid,138,45,50,18.16,428,0,0,2,4,5,1,UPI,1,0,0
+66,Female,Odisha,Semi-Urban,Prepaid,510,17,2,1.71,134,0,0,0,3,6,2,Auto-Debit,1,0,0
+30,Male,Rajasthan,Rural,Postpaid,478,40,5,4.64,725,0,0,0,3,0,1,Auto-Debit,0,0,0
+50,Female,Uttar Pradesh,Urban,Prepaid,453,3,20,19.22,359,0,0,0,2,3,1,Auto-Debit,0,0,1
+51,Female,Andhra Pradesh,Rural,Prepaid,353,66,10,10.31,689,0,0,1,4,1,0,UPI,1,0,0
+58,Female,Bihar,Semi-Urban,Postpaid,1035,46,5,5.02,646,0,1,1,5,1,1,Cash,0,1,0
+52,Male,Kerala,Urban,Prepaid,338,30,3,3.3,76,0,0,2,1,0,0,Cash,0,0,0
+18,Female,Telangana,Urban,Prepaid,326,69,5,2.48,628,0,0,0,5,0,3,Auto-Debit,0,0,0
+38,Male,Madhya Pradesh,Rural,Prepaid,439,9,5,4.55,850,0,0,1,4,0,1,UPI,0,0,0
+65,Female,Delhi,Urban,Prepaid,296,11,3,2.31,670,0,0,0,4,0,0,UPI,0,0,0
+23,Male,Punjab,Urban,Prepaid,163,69,50,25.45,799,0,0,0,4,4,0,UPI,0,0,0
+45,Female,Andhra Pradesh,Urban,Prepaid,486,66,50,54.28,343,0,0,1,3,2,2,UPI,1,0,0
+34,Female,Punjab,Rural,Prepaid,109,31,20,20.37,176,0,0,0,3,4,0,UPI,0,0,0
+22,Male,Maharashtra,Semi-Urban,Prepaid,206,33,5,2.01,491,0,0,1,4,2,0,Cash,0,0,0
+48,Female,Odisha,Semi-Urban,Postpaid,611,39,10,3.21,613,0,0,0,3,0,1,Net Banking,1,0,0
+22,Male,Karnataka,Urban,Postpaid,1007,46,50,42.53,515,0,0,0,4,5,1,Net Banking,0,0,0
+55,Female,Madhya Pradesh,Semi-Urban,Prepaid,519,37,20,15.67,681,1,0,3,1,4,0,Auto-Debit,0,0,1
+20,Female,Delhi,Semi-Urban,Prepaid,249,60,5,5.24,439,0,0,1,4,0,1,Auto-Debit,0,0,0
+40,Female,Bihar,Rural,Prepaid,319,31,2,0.97,56,0,0,2,3,0,3,UPI,0,0,0
+54,Female,Tamil Nadu,Rural,Prepaid,439,11,2,0.74,58,0,0,2,4,2,4,Net Banking,0,0,0
+54,Female,Delhi,Urban,Prepaid,594,2,5,2.54,300,0,0,1,2,2,1,Cash,1,0,1
+27,Male,Andhra Pradesh,Semi-Urban,Postpaid,915,27,10,3.15,715,1,0,2,5,4,5,UPI,1,0,0
+27,Male,Maharashtra,Urban,Prepaid,335,2,20,6.57,530,0,0,1,3,0,1,Net Banking,1,0,0
+36,Female,Punjab,Semi-Urban,Prepaid,595,21,3,3.1,282,0,0,0,4,0,0,UPI,0,0,0
+34,Female,Uttar Pradesh,Urban,Prepaid,317,58,3,1.74,414,0,0,0,4,1,1,Auto-Debit,0,0,0
+38,Female,Tamil Nadu,Urban,Postpaid,1030,5,5,3.14,89,0,0,1,4,2,0,Net Banking,0,1,1
+31,Female,Rajasthan,Urban,Prepaid,522,52,5,1.57,136,0,0,0,3,0,0,Net Banking,0,0,0
+26,Male,West Bengal,Semi-Urban,Postpaid,529,45,2,1.03,249,1,0,0,4,1,0,Auto-Debit,0,0,0
+63,Female,Uttar Pradesh,Urban,Prepaid,249,20,10,9.44,470,1,0,0,3,1,2,UPI,1,0,0
+18,Male,West Bengal,Semi-Urban,Postpaid,386,61,5,3.96,800,0,0,0,3,2,1,UPI,0,1,0
+68,Female,Madhya Pradesh,Urban,Postpaid,852,38,10,9.03,687,0,1,0,4,0,1,Auto-Debit,0,1,0
+62,Male,Kerala,Urban,Prepaid,576,20,5,3.29,593,0,0,0,4,1,0,Cash,0,0,0
+30,Male,Karnataka,Semi-Urban,Prepaid,287,25,3,1.64,601,0,1,0,4,3,0,UPI,0,0,0
+21,Male,Kerala,Urban,Prepaid,353,2,5,3.43,575,0,0,0,5,5,0,Auto-Debit,1,1,1
+18,Male,Tamil Nadu,Urban,Prepaid,166,32,20,11.17,125,0,0,1,3,0,1,Auto-Debit,1,0,0
+66,Female,Gujarat,Semi-Urban,Postpaid,989,26,1,0.97,118,1,0,0,5,0,0,Cash,0,1,0
+57,Male,Tamil Nadu,Urban,Postpaid,874,70,20,10.76,857,0,0,3,2,4,0,Net Banking,0,0,1
+49,Male,Kerala,Urban,Postpaid,783,41,5,4.14,260,0,0,2,4,1,0,Net Banking,1,1,1
+51,Male,Delhi,Urban,Postpaid,464,67,20,8.19,304,1,0,1,4,2,1,Auto-Debit,1,1,1
+45,Male,Andhra Pradesh,Rural,Prepaid,460,1,20,16.99,275,0,0,2,4,2,2,Net Banking,1,0,0
+48,Male,Punjab,Semi-Urban,Prepaid,507,51,3,3.09,140,0,0,0,3,0,1,UPI,0,0,0
+25,Male,Delhi,Semi-Urban,Postpaid,508,5,10,7.87,263,0,0,0,4,2,0,UPI,0,0,0
+56,Female,Delhi,Semi-Urban,Prepaid,494,13,3,2.24,307,0,0,3,2,2,0,Cash,0,0,1
+43,Female,Andhra Pradesh,Urban,Postpaid,731,19,20,21.38,506,0,0,0,3,1,0,Auto-Debit,0,0,0
+51,Female,Andhra Pradesh,Urban,Prepaid,455,12,5,4.01,446,0,0,4,2,0,0,UPI,1,0,1
+20,Male,Madhya Pradesh,Semi-Urban,Prepaid,354,48,5,2.54,707,0,1,1,4,6,0,Auto-Debit,0,0,0
+67,Male,Uttar Pradesh,Urban,Postpaid,523,25,10,5.34,157,0,0,0,2,1,0,UPI,0,1,1
+29,Female,Gujarat,Urban,Prepaid,451,57,20,17.28,266,1,0,1,2,2,0,Auto-Debit,0,0,0
+18,Male,Gujarat,Urban,Postpaid,671,35,3,2.67,832,0,0,1,2,4,0,Cash,1,0,1
+61,Male,Delhi,Urban,Postpaid,986,5,10,5.43,648,0,1,0,3,1,0,UPI,0,1,0
+22,Male,West Bengal,Rural,Postpaid,745,22,5,2.88,157,0,0,0,5,2,1,UPI,0,1,0
+47,Male,Madhya Pradesh,Urban,Postpaid,910,57,5,5.46,736,0,0,2,5,5,5,Net Banking,0,0,0
+47,Male,Odisha,Semi-Urban,Prepaid,536,47,10,3.82,880,0,0,1,1,1,2,Cash,0,0,0
+34,Male,Odisha,Urban,Postpaid,569,54,5,3.12,423,0,0,0,4,1,0,UPI,0,1,0
+65,Female,Bihar,Rural,Prepaid,280,3,3,1.05,504,0,0,0,4,4,0,UPI,0,0,0
+64,Male,Delhi,Urban,Prepaid,382,53,20,19.14,684,0,0,3,4,0,2,Auto-Debit,1,1,1
+40,Female,Karnataka,Urban,Postpaid,552,31,2,0.75,424,0,1,1,4,0,0,Auto-Debit,0,1,0
+32,Female,Punjab,Semi-Urban,Prepaid,197,69,10,8.39,140,0,0,1,3,4,2,UPI,0,1,0
+54,Female,Andhra Pradesh,Semi-Urban,Prepaid,295,33,3,1.04,119,0,0,4,4,3,1,Auto-Debit,1,0,1
+38,Female,Uttar Pradesh,Urban,Prepaid,580,50,1,0.84,792,0,0,0,3,5,3,UPI,1,1,1
+31,Female,Rajasthan,Urban,Prepaid,464,16,3,2.92,309,0,0,1,2,0,2,Auto-Debit,1,0,1
+19,Male,Andhra Pradesh,Urban,Postpaid,1191,39,10,6.19,362,0,0,2,4,0,1,UPI,0,0,0
+28,Male,Karnataka,Urban,Prepaid,431,46,10,7.18,253,0,0,2,4,0,1,UPI,0,1,0
+68,Male,West Bengal,Urban,Postpaid,927,47,1,0.62,130,1,0,0,3,2,0,Auto-Debit,0,0,0
+56,Female,Tamil Nadu,Semi-Urban,Postpaid,962,44,1,0.54,161,0,0,0,4,2,0,Auto-Debit,1,0,0
+55,Female,Telangana,Urban,Postpaid,1149,9,50,47.13,42,0,0,2,4,1,0,UPI,1,1,1
+51,Male,Tamil Nadu,Urban,Prepaid,466,50,2,1.04,486,0,0,0,5,0,0,UPI,0,1,0
+55,Female,Kerala,Semi-Urban,Postpaid,801,60,20,17.57,470,1,0,3,4,2,0,UPI,0,1,1
+67,Male,Karnataka,Rural,Prepaid,176,15,3,1.39,127,0,0,0,4,1,0,Net Banking,0,0,0
+51,Female,Kerala,Semi-Urban,Postpaid,797,36,10,5,149,0,1,0,4,0,2,Auto-Debit,0,0,0
+35,Male,Delhi,Urban,Prepaid,140,63,3,1.71,322,0,0,0,3,4,0,Auto-Debit,0,0,0
+47,Male,Rajasthan,Urban,Postpaid,378,69,20,15.43,845,0,0,2,2,0,0,Auto-Debit,0,0,0
+32,Male,Maharashtra,Rural,Postpaid,881,41,10,6.64,740,0,1,3,3,2,0,UPI,0,0,0
+44,Male,Andhra Pradesh,Urban,Prepaid,279,24,5,4.48,30,1,0,1,4,4,0,Net Banking,0,0,0
+68,Male,Maharashtra,Urban,Prepaid,131,49,2,0.94,601,0,1,4,4,1,0,Auto-Debit,0,0,0
+51,Male,West Bengal,Semi-Urban,Postpaid,861,18,10,3.09,279,0,0,0,5,0,4,UPI,0,1,0
+69,Female,Delhi,Semi-Urban,Prepaid,154,7,10,9.21,681,0,0,0,4,0,1,UPI,0,0,0
+55,Male,Gujarat,Semi-Urban,Postpaid,546,4,1,0.96,178,1,0,2,2,4,0,Cash,1,0,1
+50,Male,Andhra Pradesh,Urban,Prepaid,298,69,1,0.5,424,0,1,3,2,0,0,Net Banking,0,0,1
+41,Female,Kerala,Urban,Prepaid,199,60,20,15.77,73,0,0,2,2,2,0,UPI,0,0,0
+32,Female,Gujarat,Rural,Postpaid,686,55,3,1.81,727,0,1,2,4,6,2,UPI,0,0,0
+47,Male,Uttar Pradesh,Urban,Postpaid,1001,16,10,9.35,649,1,0,0,4,6,0,Cash,0,0,0
+59,Male,Bihar,Semi-Urban,Postpaid,858,29,5,5,73,1,0,0,5,1,0,Cash,0,0,0
+68,Male,Rajasthan,Semi-Urban,Prepaid,269,23,20,19.62,107,0,0,3,4,3,0,UPI,0,1,1
+34,Male,Bihar,Semi-Urban,Postpaid,1165,14,50,46.09,255,0,0,0,5,6,4,UPI,0,0,0
+22,Female,Rajasthan,Urban,Prepaid,241,49,100,51.52,191,0,1,0,4,1,0,UPI,1,0,0
+46,Male,Tamil Nadu,Urban,Postpaid,651,33,3,2.85,822,1,1,1,5,0,3,UPI,1,0,0
+21,Male,Madhya Pradesh,Semi-Urban,Postpaid,1000,25,20,14.54,282,0,0,0,4,0,0,UPI,0,1,0
+27,Female,Andhra Pradesh,Rural,Prepaid,359,21,3,1.03,161,0,0,2,4,0,1,Auto-Debit,1,0,0
+34,Male,Kerala,Rural,Prepaid,319,17,5,3.33,477,0,0,0,4,3,1,Cash,0,1,0
+27,Female,Bihar,Urban,Prepaid,181,23,5,5.27,503,1,0,2,4,1,0,UPI,0,1,0
+34,Male,West Bengal,Urban,Postpaid,1052,57,1,1.01,685,0,0,1,3,3,0,Net Banking,0,0,0
+37,Female,Maharashtra,Rural,Prepaid,405,58,50,19.09,807,0,0,1,2,3,0,UPI,0,0,0
+41,Male,Odisha,Semi-Urban,Postpaid,300,14,2,1.79,138,1,0,1,1,2,0,Net Banking,0,0,0
+22,Female,Telangana,Rural,Prepaid,494,20,10,9.45,735,0,0,0,4,2,2,UPI,0,1,1
+51,Female,West Bengal,Urban,Postpaid,745,30,10,5.17,64,0,0,1,4,0,0,UPI,1,0,0
+23,Male,Gujarat,Semi-Urban,Postpaid,378,19,10,6.77,496,1,0,1,1,3,1,UPI,0,0,0
+19,Female,Gujarat,Semi-Urban,Prepaid,500,53,2,1.74,304,1,0,1,3,1,0,UPI,0,0,0
+30,Female,Bihar,Semi-Urban,Prepaid,434,56,5,3.26,216,1,0,0,3,1,0,Net Banking,0,0,0
+60,Female,Telangana,Urban,Prepaid,586,23,20,7.8,272,0,0,0,4,0,1,Auto-Debit,0,0,0
+60,Female,Karnataka,Urban,Postpaid,648,62,3,2.59,293,0,0,0,3,4,1,UPI,0,0,0
+65,Female,Uttar Pradesh,Semi-Urban,Postpaid,397,33,5,5.15,551,1,0,1,2,4,0,Auto-Debit,1,0,1
+28,Male,Andhra Pradesh,Urban,Prepaid,313,18,3,2.47,707,0,0,0,2,1,0,Net Banking,0,0,0
+68,Male,Rajasthan,Semi-Urban,Postpaid,801,33,5,4.6,570,1,0,3,2,1,0,Auto-Debit,1,0,1
+64,Female,Punjab,Rural,Prepaid,196,32,20,11.73,812,1,1,1,5,2,2,UPI,0,0,0
+40,Male,Odisha,Urban,Prepaid,518,61,5,2.23,116,0,0,2,3,0,0,Auto-Debit,1,0,0
+33,Female,Kerala,Rural,Postpaid,1064,54,5,4.07,564,1,0,2,4,0,0,UPI,1,1,1
+48,Female,West Bengal,Urban,Prepaid,549,17,5,2.81,239,0,0,0,4,2,1,Net Banking,1,0,0
+28,Male,Kerala,Semi-Urban,Prepaid,107,19,5,4.94,75,0,0,2,5,0,0,Auto-Debit,1,0,0
+33,Male,Gujarat,Rural,Prepaid,159,70,1,0.5,496,0,0,1,3,1,0,UPI,0,0,0
+25,Female,Madhya Pradesh,Urban,Prepaid,407,34,3,1.94,569,0,0,3,2,1,0,Auto-Debit,0,0,1
+21,Male,Tamil Nadu,Urban,Prepaid,244,25,5,3.09,55,0,0,3,1,1,2,UPI,0,0,1
+57,Female,Maharashtra,Urban,Prepaid,525,68,10,10.5,295,0,0,0,3,0,4,UPI,0,0,0
+21,Male,Uttar Pradesh,Urban,Postpaid,508,11,5,2.11,204,0,0,0,4,1,1,UPI,1,0,0
+42,Female,Madhya Pradesh,Semi-Urban,Prepaid,161,16,3,0.92,545,1,0,1,2,0,0,UPI,0,1,1
+20,Male,Uttar Pradesh,Rural,Prepaid,219,61,5,2.45,340,1,0,1,3,1,1,UPI,0,0,0
+49,Female,Karnataka,Urban,Prepaid,324,7,3,2.87,351,0,1,0,5,2,0,Auto-Debit,0,0,0
+20,Male,Punjab,Urban,Prepaid,203,16,50,23.37,608,0,0,0,4,5,0,UPI,1,1,1
+44,Female,Bihar,Urban,Postpaid,392,16,5,2.46,164,0,0,0,1,0,4,Auto-Debit,1,0,1
+46,Male,Bihar,Semi-Urban,Postpaid,639,40,1,0.5,84,1,0,1,1,3,0,Net Banking,0,0,0
+49,Female,Gujarat,Urban,Prepaid,447,12,1,0.87,572,0,1,4,1,0,0,Net Banking,0,0,1
+67,Female,Tamil Nadu,Semi-Urban,Postpaid,744,35,100,35.53,615,0,0,2,5,1,3,Auto-Debit,0,0,0
+68,Male,Telangana,Semi-Urban,Prepaid,353,21,3,1.69,560,1,0,0,5,1,1,Auto-Debit,0,0,0
+36,Male,Andhra Pradesh,Semi-Urban,Prepaid,527,50,20,10.52,185,0,0,0,5,1,0,Auto-Debit,0,1,0
+38,Male,Telangana,Urban,Prepaid,532,43,2,1.49,878,1,0,0,5,2,0,Cash,1,0,0
+22,Female,Madhya Pradesh,Semi-Urban,Prepaid,305,17,50,44.22,697,1,0,1,4,1,0,Net Banking,0,0,0
+35,Female,Uttar Pradesh,Urban,Prepaid,126,32,20,14.53,176,1,0,2,3,0,0,UPI,0,0,0
+45,Female,Rajasthan,Urban,Postpaid,605,41,5,5.22,514,0,0,0,3,3,0,UPI,0,0,0
+59,Male,Karnataka,Rural,Prepaid,434,6,1,1.06,628,0,0,1,4,0,0,Auto-Debit,1,1,1
+39,Male,Rajasthan,Semi-Urban,Postpaid,427,27,3,1.77,49,1,0,3,5,0,5,UPI,1,0,1
+38,Female,Tamil Nadu,Urban,Prepaid,214,20,5,4.61,298,0,0,3,3,0,0,Net Banking,0,1,1
+23,Male,Andhra Pradesh,Urban,Prepaid,167,25,5,4.46,362,0,0,0,4,0,0,UPI,1,0,0
+18,Female,Andhra Pradesh,Urban,Postpaid,1147,66,3,3.04,584,0,0,0,5,1,0,Net Banking,0,1,0
+22,Male,Madhya Pradesh,Urban,Prepaid,332,9,1,0.66,430,0,0,0,2,1,0,UPI,0,0,0
+58,Female,Kerala,Urban,Prepaid,99,53,5,3.62,335,0,0,1,5,0,0,Auto-Debit,0,1,0
+29,Male,Karnataka,Urban,Postpaid,429,61,5,3.16,57,0,0,4,2,0,3,UPI,1,0,1
+43,Male,Odisha,Semi-Urban,Postpaid,431,38,3,2.94,496,0,0,0,4,2,2,UPI,0,0,0
+63,Female,Andhra Pradesh,Semi-Urban,Postpaid,896,3,1,0.5,289,0,0,0,3,2,0,Cash,1,0,0
+51,Female,Andhra Pradesh,Semi-Urban,Postpaid,781,70,100,49.18,563,0,0,3,4,6,2,UPI,0,0,0
+66,Female,Madhya Pradesh,Semi-Urban,Postpaid,1161,55,5,2.99,130,0,0,2,4,4,0,UPI,1,1,1
+31,Male,Gujarat,Urban,Postpaid,689,1,10,4.84,580,0,0,5,3,4,1,UPI,1,0,1
+43,Male,Delhi,Rural,Prepaid,445,70,5,3.74,831,0,0,0,5,3,0,UPI,0,1,0
+62,Female,Karnataka,Rural,Prepaid,442,45,1,0.5,382,0,0,0,4,2,2,UPI,1,0,0
+44,Female,Rajasthan,Rural,Prepaid,517,47,3,1.67,329,0,0,0,4,0,0,Cash,0,0,0
+26,Male,Tamil Nadu,Rural,Prepaid,272,26,3,3.09,711,0,0,0,2,2,1,UPI,1,1,1
+43,Male,Andhra Pradesh,Rural,Postpaid,747,14,20,12.55,325,0,0,1,5,0,2,Auto-Debit,1,0,0
+64,Male,Andhra Pradesh,Semi-Urban,Postpaid,827,54,10,8.99,382,0,1,0,2,4,0,Net Banking,0,0,1
+39,Female,Bihar,Urban,Prepaid,521,71,3,1.17,159,0,0,0,3,1,0,Auto-Debit,1,1,1
+64,Male,Punjab,Semi-Urban,Prepaid,188,46,50,24.9,185,0,0,3,2,2,0,Auto-Debit,0,0,1
+47,Male,Gujarat,Semi-Urban,Postpaid,464,31,3,2.84,103,0,0,0,3,0,1,UPI,1,0,0
+60,Male,Andhra Pradesh,Semi-Urban,Prepaid,544,59,100,91.04,371,1,0,2,5,1,0,Auto-Debit,1,0,0
+65,Male,Delhi,Semi-Urban,Postpaid,1012,29,100,60.89,494,0,1,0,3,0,1,Cash,0,1,0
+34,Male,Punjab,Urban,Prepaid,505,17,3,3.19,119,1,0,2,3,0,3,UPI,0,1,1
+43,Male,Bihar,Urban,Prepaid,248,14,3,3.09,608,0,0,0,5,1,0,UPI,0,1,0
+53,Male,Maharashtra,Rural,Prepaid,230,36,5,5.35,484,0,0,2,4,0,0,Auto-Debit,1,0,0
+18,Female,Gujarat,Semi-Urban,Prepaid,531,58,10,6.42,777,0,0,0,4,1,1,Auto-Debit,1,0,0
+25,Male,Tamil Nadu,Semi-Urban,Postpaid,564,24,5,2.29,741,0,0,0,3,1,2,UPI,0,0,0
+66,Female,Uttar Pradesh,Urban,Postpaid,1174,63,50,40.07,361,0,1,2,4,3,4,UPI,1,0,0
+52,Female,Karnataka,Urban,Postpaid,911,25,10,8.48,768,0,0,0,3,1,0,Net Banking,0,0,0
+69,Female,Madhya Pradesh,Rural,Prepaid,297,59,3,1.2,377,0,0,0,5,1,0,Auto-Debit,0,0,0
+32,Male,Tamil Nadu,Semi-Urban,Prepaid,313,32,2,1.86,262,0,0,3,4,6,2,UPI,0,1,1
+64,Male,Odisha,Semi-Urban,Postpaid,1025,18,10,3.14,807,0,0,3,4,1,2,Auto-Debit,0,1,1
+39,Male,Karnataka,Semi-Urban,Postpaid,577,37,3,2.06,627,0,1,0,2,1,1,UPI,0,0,0
+31,Female,Punjab,Semi-Urban,Prepaid,570,26,10,5.65,131,1,0,0,3,1,0,UPI,0,1,0
+43,Female,Kerala,Urban,Prepaid,330,9,3,2.68,510,0,0,0,2,3,0,Auto-Debit,0,1,1
+45,Female,Madhya Pradesh,Semi-Urban,Postpaid,456,64,3,1.65,243,0,0,0,3,0,0,UPI,1,0,0
+40,Female,West Bengal,Urban,Prepaid,480,20,1,0.96,137,0,0,5,3,1,3,Auto-Debit,0,0,0
+31,Female,Rajasthan,Urban,Prepaid,577,54,10,7.76,194,0,0,1,4,2,0,UPI,0,0,0
+41,Male,Maharashtra,Semi-Urban,Prepaid,337,30,2,1.87,632,0,0,1,2,0,1,UPI,0,0,0
+19,Male,Gujarat,Rural,Prepaid,513,53,10,10.91,733,0,0,5,4,3,1,Auto-Debit,0,0,0
+62,Female,Andhra Pradesh,Urban,Postpaid,829,63,5,4.22,364,0,0,1,1,1,0,Cash,0,0,0
+43,Female,Kerala,Rural,Postpaid,626,11,10,10.88,115,1,0,1,3,1,0,UPI,0,1,0
+31,Male,Bihar,Urban,Prepaid,146,31,5,1.62,763,0,0,0,4,2,1,Cash,0,0,0
+68,Female,Odisha,Urban,Prepaid,149,49,2,1.14,453,1,0,0,4,0,0,Auto-Debit,1,0,0
+24,Male,Kerala,Urban,Prepaid,397,19,10,3.86,642,1,0,1,4,4,0,Cash,0,0,0
+20,Male,Tamil Nadu,Urban,Prepaid,196,12,2,1.02,767,1,0,0,1,5,0,Auto-Debit,0,0,1
+64,Male,Maharashtra,Semi-Urban,Prepaid,537,15,5,4.86,393,0,0,0,4,1,2,UPI,0,0,0
+40,Male,Uttar Pradesh,Urban,Postpaid,559,31,3,0.98,89,0,0,0,3,4,4,Cash,0,0,0
+63,Female,Telangana,Semi-Urban,Prepaid,275,43,10,7.16,511,0,0,0,3,0,1,Auto-Debit,1,1,0
+60,Male,Karnataka,Rural,Prepaid,478,37,50,37.69,279,0,0,1,4,4,2,Auto-Debit,1,0,0
+64,Female,Karnataka,Urban,Prepaid,572,29,5,3.74,589,0,0,1,3,0,0,Net Banking,0,1,0
+62,Female,Tamil Nadu,Semi-Urban,Prepaid,178,26,5,3.4,146,0,1,0,2,0,1,UPI,0,0,0
+35,Female,Delhi,Urban,Prepaid,283,2,10,9.32,768,0,0,0,5,0,5,UPI,1,0,1
+55,Male,Delhi,Semi-Urban,Prepaid,465,15,1,0.5,574,0,0,1,4,0,0,Auto-Debit,0,0,0

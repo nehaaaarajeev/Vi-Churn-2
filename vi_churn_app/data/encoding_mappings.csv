@@ -1,0 +1,7 @@
+column,type
+gender,one_hot
+location_type,one_hot
+plan_type,one_hot
+payment_method,one_hot
+customer_satisfaction_score,ordinal_1_to_5
+state,frequency_encoding
